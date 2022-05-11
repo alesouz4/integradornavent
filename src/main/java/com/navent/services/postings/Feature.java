@@ -16,13 +16,13 @@ public abstract class Feature {
 
     abstract public void setEnvironments(Integer environments);
 
-abstract public Integer getBathrooms();
+    abstract public Integer getBathrooms();
 
-abstract public void setBathrooms(Integer bathrooms);
+    abstract public void setBathrooms(Integer bathrooms);
 
-abstract public Integer getGarages();
+    abstract public Integer getGarages();
 
-abstract public void setGarages(Integer garages);
+    abstract public void setGarages(Integer garages);
 
 }
 
