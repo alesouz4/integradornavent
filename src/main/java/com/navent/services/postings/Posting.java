@@ -3,6 +3,10 @@ import java.util.List;
 
 
     public abstract class Posting extends Entity {
+        public abstract int getHashCode();
+
+        public abstract void setHashCode(int hashCode);
+
         abstract public Long getId();
 
         abstract public void setId(Long id);
@@ -37,6 +41,14 @@ import java.util.List;
 
         abstract public void setFeatures(Feature features);
 
+        public abstract String getPictureUrl();
+
+        public abstract void setPictureUrl(String pictureURL);
+
+        public abstract Feature getFeature();
+
+        public abstract void setFeature(Feature feature);
+
         abstract public List<String> getTags();
 
 // ejemplos "RESERVED, 300, "VIDEO", "ADMITS PETS", "CREDIT, //SURETY INSURANCE "FINANCE
@@ -67,7 +79,7 @@ import java.util.List;
 
         abstract public void setOperationType(OperationType operationType);
 
-        abstract public CategoryListing getcategoryListing();
+        public abstract CategoryListing getCategoryListing();
 
         abstract public void setCategoryListing(CategoryListing categoryListing);
 
