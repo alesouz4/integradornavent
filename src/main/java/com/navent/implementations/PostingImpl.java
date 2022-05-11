@@ -58,7 +58,26 @@ public class PostingImpl extends Posting {
 
     @Override
     public String toString() {
-        return null;
+        return "PostingImpl{" +
+                "hashCode=" + hashCode +
+                ", id=" + id +
+                ", title='" + title + '\'' +
+                ", description='" + description + '\'' +
+                ", address='" + address + '\'' +
+                ", pictureURL='" + pictureURL + '\'' +
+                ", IsDevelopment=" + IsDevelopment +
+                ", feature=" + feature +
+                ", tags=" + tags +
+                ", favorite=" + favorite +
+                ", contacted=" + contacted +
+                ", viewed=" + viewed +
+                ", haswhatsapp=" + haswhatsapp +
+                ", publicationType=" + publicationType +
+                ", operationType=" + operationType +
+                ", categoryListing=" + categoryListing +
+                ", price=" + price +
+                ", publisher=" + publisher +
+                '}';
     }
 
     public PostingImpl(int hashCode, Long id, String title, String description, String address, String pictureURL, boolean isDevelopment, Feature feature, List<String> tags, boolean favorite, boolean contacted, boolean viewed, boolean haswhatsapp, PublicationType publicationType, OperationType operationType, CategoryListing categoryListing, Price price, Publisher publisher) {
@@ -81,6 +100,7 @@ public class PostingImpl extends Posting {
         this.price = price;
         this.publisher = publisher;
     }
+
 
     @Override
     public int getHashCode() {
@@ -280,6 +300,6 @@ public class PostingImpl extends Posting {
 
     @Override
     public void setPublisher(Publisher publisher) {
-        this.publisher=publisher;
+        this.publisher = publisher;
     }
 }
