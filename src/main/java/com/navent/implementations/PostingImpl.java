@@ -43,24 +43,6 @@ public class PostingImpl extends Posting {
     private Publisher publisher;
 
 
-    public PostingImpl() {
-    }
-
-    @Override
-    public int hashCode() {
-        return 0;
-    }
-
-    @Override
-    public boolean equals(Object obj) {
-        return false;
-    }
-
-    @Override
-    public String toString() {
-        return null;
-    }
-
     public PostingImpl(int hashCode, Long id, String title, String description, String address, String pictureURL, boolean isDevelopment, Feature feature, List<String> tags, boolean favorite, boolean contacted, boolean viewed, boolean haswhatsapp, PublicationType publicationType, OperationType operationType, CategoryListing categoryListing, Price price, Publisher publisher) {
         this.hashCode = hashCode;
         this.id = id;
@@ -80,6 +62,21 @@ public class PostingImpl extends Posting {
         this.categoryListing = categoryListing;
         this.price = price;
         this.publisher = publisher;
+    }
+
+    @Override
+    public int hashCode() {
+        return 0;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        return false;
+    }
+
+    @Override
+    public String toString() {
+        return null;
     }
 
     @Override

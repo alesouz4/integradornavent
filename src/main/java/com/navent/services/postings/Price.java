@@ -4,8 +4,6 @@ public abstract class Price {
 
     abstract public Double getValue();
 
-// 70.000.
-
     abstract public void setValue(Double value);
 
     abstract public Double getExpenses();

@@ -32,7 +32,6 @@ public class PublisherImpl extends Publisher {
 
     @Override
     public void setIsPremier(Boolean premier) {
-
         this.isPremier = premier;
     }
 }
