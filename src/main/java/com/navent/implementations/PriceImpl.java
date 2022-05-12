@@ -10,10 +10,22 @@ public class PriceImpl extends Price {
 
     private Double priceLowerPercentage;
 
+    public PriceImpl() {
+    }
+
     public PriceImpl(Double value, Double expenses, Double priceLowerPercentage) {
         this.value = value;
         this.expenses = expenses;
         this.priceLowerPercentage = priceLowerPercentage;
+    }
+
+    @Override
+    public String toString() {
+        return "{" +
+                "value=" + value +
+                ", expenses=" + expenses +
+                ", priceLowerPercentage=" + priceLowerPercentage +
+                '}';
     }
 
     @Override

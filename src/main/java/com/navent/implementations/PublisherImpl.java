@@ -8,9 +8,20 @@ public class PublisherImpl extends Publisher {
 
     private Boolean isPremier;
 
+    public PublisherImpl() {
+    }
+
     public PublisherImpl(String logoUrl, Boolean isPremier) {
         this.logoUrl = logoUrl;
         this.isPremier = isPremier;
+    }
+
+    @Override
+    public String toString() {
+        return "{" +
+                "logoUrl='" + logoUrl + '\'' +
+                ", isPremier=" + isPremier +
+                '}';
     }
 
     @Override

@@ -2,6 +2,7 @@ package com.navent.implementations;
 
 import com.navent.services.postings.*;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class PostingImpl extends Posting {
@@ -20,7 +21,7 @@ public class PostingImpl extends Posting {
 
     private Feature feature;
 
-    private List<String> tags;
+    private List<String> tags=new ArrayList<>();
 
     private boolean favorite;
 
@@ -40,6 +41,8 @@ public class PostingImpl extends Posting {
 
     private Publisher publisher;
 
+    public PostingImpl() {
+    }
 
     public PostingImpl(Long id, String title, String description, String address, String pictureURL, boolean isDevelopment, Feature feature, List<String> tags, boolean favorite, boolean contacted, boolean viewed, boolean haswhatsapp, PUBLICATION_TYPE publicationType, OPERATION_TYPE OPERATIONTYPE, CATEGORY_LISTING CATEGORYLISTING, Price price, Publisher publisher) {
         this.id = id;
@@ -49,7 +52,7 @@ public class PostingImpl extends Posting {
         this.pictureURL = pictureURL;
         IsDevelopment = isDevelopment;
         this.feature = feature;
-        this.tags = tags;
+        this.tags.addAll(tags);
         this.favorite = favorite;
         this.contacted = contacted;
         this.viewed = viewed;
@@ -73,7 +76,25 @@ public class PostingImpl extends Posting {
 
     @Override
     public String toString() {
-        return null;
+        return "{" +
+                "id=" + id +
+                ", title='" + title + '\'' +
+                ", description='" + description + '\'' +
+                ", address='" + address + '\'' +
+                ", pictureURL='" + pictureURL + '\'' +
+                ", IsDevelopment=" + IsDevelopment +
+                ", feature=" + feature +
+                ", tags=" + tags +
+                ", favorite=" + favorite +
+                ", contacted=" + contacted +
+                ", viewed=" + viewed +
+                ", haswhatsapp=" + haswhatsapp +
+                ", publicationType=" + publicationType +
+                ", OPERATIONTYPE=" + OPERATIONTYPE +
+                ", CATEGORYLISTING=" + CATEGORYLISTING +
+                ", price=" + price +
+                ", publisher=" + publisher +
+                '}';
     }
 
     @Override
@@ -274,6 +295,6 @@ public class PostingImpl extends Posting {
 
     @Override
     public void setPublisher(Publisher publisher) {
-        this.publisher=publisher;
+        this.publisher = publisher;
     }
 }

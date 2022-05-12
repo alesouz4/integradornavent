@@ -1,6 +1,8 @@
 package com.navent.implementations;
 
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.navent.services.postings.Feature;
+
 
 public class FeatureImpl extends Feature {
 
@@ -14,12 +16,26 @@ public class FeatureImpl extends Feature {
 
     private Integer garages;
 
+    public FeatureImpl() {
+    }
+
     public FeatureImpl(Double totalArea, Integer rooms, Integer enviroments, Integer bathrooms, Integer garages) {
         this.totalArea = totalArea;
         this.rooms = rooms;
         this.environments = enviroments;
         this.bathrooms = bathrooms;
         this.garages = garages;
+    }
+
+    @Override
+    public String toString() {
+        return "{" +
+                "totalArea=" + totalArea +
+                ", rooms=" + rooms +
+                ", environments=" + environments +
+                ", bathrooms=" + bathrooms +
+                ", garages=" + garages +
+                '}';
     }
 
     @Override

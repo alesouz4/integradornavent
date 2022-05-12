@@ -1,5 +1,9 @@
 package com.navent.services.postings;
 
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.navent.implementations.PriceImpl;
+
+@JsonDeserialize(as = PriceImpl.class)
 public abstract class Price {
 
     abstract public Double getValue();

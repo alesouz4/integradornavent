@@ -1,5 +1,7 @@
 package com.navent.services.postings;
-
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.navent.implementations.FeatureImpl;
+@JsonDeserialize(as = FeatureImpl.class)
 public abstract class Feature {
 
     abstract public Double getTotalArea();

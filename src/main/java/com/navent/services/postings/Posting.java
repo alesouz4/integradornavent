@@ -1,7 +1,10 @@
 package com.navent.services.postings;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.navent.implementations.PostingImpl;
+
 import java.util.List;
 
-
+@JsonDeserialize(as = PostingImpl.class)
     public abstract class Posting extends Entity {
         public abstract int getHashCode();
 
