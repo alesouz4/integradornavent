@@ -6,8 +6,6 @@ import java.util.List;
 
 public class PostingImpl extends Posting {
 
-    private int hashCode;
-
     private Long id;
 
     private String title;
@@ -43,8 +41,7 @@ public class PostingImpl extends Posting {
     private Publisher publisher;
 
 
-    public PostingImpl(int hashCode, Long id, String title, String description, String address, String pictureURL, boolean isDevelopment, Feature feature, List<String> tags, boolean favorite, boolean contacted, boolean viewed, boolean haswhatsapp, PublicationType publicationType, OperationType operationType, CategoryListing categoryListing, Price price, Publisher publisher) {
-        this.hashCode = hashCode;
+    public PostingImpl(Long id, String title, String description, String address, String pictureURL, boolean isDevelopment, Feature feature, List<String> tags, boolean favorite, boolean contacted, boolean viewed, boolean haswhatsapp, PublicationType publicationType, OperationType operationType, CategoryListing categoryListing, Price price, Publisher publisher) {
         this.id = id;
         this.title = title;
         this.description = description;
