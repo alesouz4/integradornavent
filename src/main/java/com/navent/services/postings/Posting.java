@@ -71,17 +71,17 @@ import java.util.List;
 
         abstract public void setHasWhatsapp(Boolean hasWhatsapp);
 
-        abstract public PublicationType getPublicationType();
+        abstract public PUBLICATION_TYPE getPublicationType();
 
-        abstract public void setPublicationType(PublicationType publicationType);
+        abstract public void setPublicationType(PUBLICATION_TYPE publicationType);
 
-        abstract public OperationType getOperationType();
+        abstract public OPERATION_TYPE getOperationType();
 
-        abstract public void setOperationType(OperationType operationType);
+        abstract public void setOperationType(OPERATION_TYPE OPERATIONTYPE);
 
-        public abstract CategoryListing getCategoryListing();
+        public abstract CATEGORY_LISTING getCategoryListing();
 
-        abstract public void setCategoryListing(CategoryListing categoryListing);
+        abstract public void setCategoryListing(CATEGORY_LISTING CATEGORYLISTING);
 
         abstract public Price getPrice();
 

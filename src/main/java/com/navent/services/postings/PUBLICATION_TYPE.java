@@ -1,6 +1,6 @@
 package com.navent.services.postings;
 
-public enum PublicationType {
+public enum PUBLICATION_TYPE {
     EXCLUSIVE, HIGHLIGHTED, SUPERHIGHLIGHTED, CLASIFFIED, SUPERHIGHLIGHTED_DEVELOPMENT;
 }
 

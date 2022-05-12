@@ -1,6 +1,6 @@
 package com.navent.services.postings;
 
-public enum OperationType {
+public enum OPERATION_TYPE {
     VENTA, ALQUILER, REMATE, HIPOTECARIO, FORECLOSURE, TEMPORADA, EMPRENDIMIENTOS, SUBASTA, TRASPASSO;
 
     }

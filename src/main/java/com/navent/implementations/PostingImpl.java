@@ -30,18 +30,18 @@ public class PostingImpl extends Posting {
 
     private boolean haswhatsapp;
 
-    private PublicationType publicationType;
+    private PUBLICATION_TYPE publicationType;
 
-    private OperationType operationType;
+    private OPERATION_TYPE OPERATIONTYPE;
 
-    private CategoryListing categoryListing;
+    private CATEGORY_LISTING CATEGORYLISTING;
 
     private Price price;
 
     private Publisher publisher;
 
 
-    public PostingImpl(Long id, String title, String description, String address, String pictureURL, boolean isDevelopment, Feature feature, List<String> tags, boolean favorite, boolean contacted, boolean viewed, boolean haswhatsapp, PublicationType publicationType, OperationType operationType, CategoryListing categoryListing, Price price, Publisher publisher) {
+    public PostingImpl(Long id, String title, String description, String address, String pictureURL, boolean isDevelopment, Feature feature, List<String> tags, boolean favorite, boolean contacted, boolean viewed, boolean haswhatsapp, PUBLICATION_TYPE publicationType, OPERATION_TYPE OPERATIONTYPE, CATEGORY_LISTING CATEGORYLISTING, Price price, Publisher publisher) {
         this.id = id;
         this.title = title;
         this.description = description;
@@ -55,8 +55,8 @@ public class PostingImpl extends Posting {
         this.viewed = viewed;
         this.haswhatsapp = haswhatsapp;
         this.publicationType = publicationType;
-        this.operationType = operationType;
-        this.categoryListing = categoryListing;
+        this.OPERATIONTYPE = OPERATIONTYPE;
+        this.CATEGORYLISTING = CATEGORYLISTING;
         this.price = price;
         this.publisher = publisher;
     }
@@ -227,34 +227,34 @@ public class PostingImpl extends Posting {
     }
 
     @Override
-    public PublicationType getPublicationType() {
+    public PUBLICATION_TYPE getPublicationType() {
         return this.publicationType;
     }
 
     @Override
-    public void setPublicationType(PublicationType publicationType) {
+    public void setPublicationType(PUBLICATION_TYPE publicationType) {
         this.publicationType = publicationType;
     }
 
     @Override
-    public OperationType getOperationType() {
-        return this.operationType;
+    public OPERATION_TYPE getOperationType() {
+        return this.OPERATIONTYPE;
     }
 
     @Override
-    public void setOperationType(OperationType operationType) {
-        this.operationType = operationType;
+    public void setOperationType(OPERATION_TYPE OPERATIONTYPE) {
+        this.OPERATIONTYPE = OPERATIONTYPE;
     }
 
 
     @Override
-    public CategoryListing getCategoryListing() {
-        return this.categoryListing;
+    public CATEGORY_LISTING getCategoryListing() {
+        return this.CATEGORYLISTING;
     }
 
     @Override
-    public void setCategoryListing(CategoryListing categoryListing) {
-        this.categoryListing = categoryListing;
+    public void setCategoryListing(CATEGORY_LISTING CATEGORYLISTING) {
+        this.CATEGORYLISTING = CATEGORYLISTING;
     }
 
     @Override

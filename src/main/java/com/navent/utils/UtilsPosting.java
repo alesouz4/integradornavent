@@ -2,6 +2,7 @@ package com.navent.utils;
 
 import com.navent.implementations.FeatureImpl;
 import com.navent.implementations.PostingImpl;
+import com.navent.services.postings.PUBLICATION_TYPE;
 import io.codearte.jfairy.Fairy;
 import io.codearte.jfairy.producer.company.Company;
 import io.codearte.jfairy.producer.person.Person;
@@ -29,7 +30,7 @@ public class UtilsPosting {
 
         for (int i = 1; i <= 100; i++) {
 
-            PostingImpl posting = new PostingImpl(numberLong.nextLong(), company.getName(), company.getName(), person.getAddress(), company.getUrl(), states.nextBoolean(), new FeatureImpl(new Random().nextDouble(), new Random().nextInt(), new Random().nextInt(), new Random().nextInt(), new Random().nextInt()), tags, new Random().nextBoolean(), new Random().nextBoolean(), new Random().nextBoolean(), new Random().nextBoolean(),     );
+            PostingImpl posting = new PostingImpl(numberLong.nextLong(), company.getName(), company.getName(), person.getAddress(), company.getUrl(), states.nextBoolean(), new FeatureImpl(new Random().nextDouble(), new Random().nextInt(), new Random().nextInt(), new Random().nextInt(), new Random().nextInt()), tags, new Random().nextBoolean(), new Random().nextBoolean(), new Random().nextBoolean(), new Random().nextBoolean(), PUBLICATION_TYPE.get());
             fakePostings.add(posting);
 
         }
