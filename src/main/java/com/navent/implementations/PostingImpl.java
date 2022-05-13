@@ -5,7 +5,7 @@ import com.navent.services.postings.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PostingImpl extends Posting {
+public class PostingImpl  extends Posting implements Comparable<PostingImpl> {
     private int hashCode;
 
     private Long id;
@@ -18,7 +18,7 @@ public class PostingImpl extends Posting {
 
     private String pictureURL;
 
-    private boolean IsDevelopment;
+    private boolean isDevelopment;
 
     private Feature feature;
 
@@ -51,7 +51,7 @@ public class PostingImpl extends Posting {
         this.description = description;
         this.address = address;
         this.pictureURL = pictureURL;
-        IsDevelopment = isDevelopment;
+        this.isDevelopment = isDevelopment;
         this.feature = feature;
         this.tags.addAll(tags);
         this.favorite = favorite;
@@ -71,33 +71,13 @@ public class PostingImpl extends Posting {
     }
 
     @Override
-    public boolean equals(Object obj) {
-        //El instanceof nos sirve para saber si obj es una instancia de la clase FilterImpl.
-        if (obj instanceof FilterImpl) {
-            //Creamos una variable filterParams y casteamos lo que recibimos x params.
-            FilterImpl filterParams = (FilterImpl) obj;
-            //Logica para saber si el Posting concueda con el filterParams
-            if (this.feature.getRooms() >= filterParams.getRoomsFrom() && this.feature.getRooms() <= filterParams.getRoomsTo()) {
-                if (this.feature.getBathrooms() >= filterParams.getBathroomsFrom() && this.feature.getBathrooms() <= filterParams.getBathroomsTo()) {
-                    if (filterParams.getPublicationType() == this.publicationType && filterParams.getOperationType() == this.OPERATIONTYPE) {
-                        if (this.favorite == filterParams.getFavorite() && this.contacted == filterParams.getContacted() && this.viewed == filterParams.getViewed() && this.haswhatsapp == filterParams.getHasWhatsapp()) {
-                            return true;
-                        }
-                    }
-                }
-            }
-        }
-        return false;
-    }
-
-    @Override
     public int getHashCode() {
         return this.hashCode;
     }
 
     @Override
     public void setHashCode(int hashCode) {
-        this.hashCode=hashCode;
+        this.hashCode = hashCode;
     }
 
     @Override
@@ -141,23 +121,13 @@ public class PostingImpl extends Posting {
     }
 
     @Override
-    public String getPicturesUrl() {
-        return this.pictureURL;
-    }
-
-    @Override
-    public void setPicturesUrl(String picturesUrl) {
-        this.pictureURL = picturesUrl;
-    }
-
-    @Override
     public boolean getIsDevelopment() {
-        return this.IsDevelopment;
+        return this.isDevelopment;
     }
 
     @Override
     public void setIsDevelopment(Boolean Development) {
-        this.IsDevelopment = Development;
+        this.isDevelopment = Development;
     }
 
     @Override
@@ -166,8 +136,8 @@ public class PostingImpl extends Posting {
     }
 
     @Override
-    public void setFeatures(Feature features) {
-        this.feature = features;
+    public void setFeatures(Feature feature) {
+        this.feature = feature;
     }
 
     @Override
@@ -178,16 +148,6 @@ public class PostingImpl extends Posting {
     @Override
     public void setPictureUrl(String pictureURL) {
         this.pictureURL = pictureURL;
-    }
-
-    @Override
-    public Feature getFeature() {
-        return this.feature;
-    }
-
-    @Override
-    public void setFeature(Feature feature) {
-        this.feature = feature;
     }
 
     @Override
@@ -299,7 +259,7 @@ public class PostingImpl extends Posting {
                 ", description='" + description + '\'' +
                 ", address='" + address + '\'' +
                 ", pictureURL='" + pictureURL + '\'' +
-                ", IsDevelopment=" + IsDevelopment +
+                ", IsDevelopment=" + isDevelopment +
                 ", feature=" + feature +
                 ", tags=" + tags +
                 ", favorite=" + favorite +
@@ -312,5 +272,30 @@ public class PostingImpl extends Posting {
                 ", price=" + price +
                 ", publisher=" + publisher +
                 '}';
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        //El instanceof nos sirve para saber si obj es una instancia de la clase FilterImpl.
+        if (obj instanceof FilterImpl) {
+            //Creamos una variable filterParams y casteamos lo que recibimos x params.
+            FilterImpl filterParams = (FilterImpl) obj;
+            //Logica para saber si el Posting concueda con el filterParams
+            if (this.feature.getRooms() >= filterParams.getRoomsFrom() && this.feature.getRooms() <= filterParams.getRoomsTo()) {
+                if (this.feature.getBathrooms() >= filterParams.getBathroomsFrom() && this.feature.getBathrooms() <= filterParams.getBathroomsTo()) {
+                    if (filterParams.getPublicationType() == this.publicationType && filterParams.getOperationType() == this.OPERATIONTYPE) {
+                        if (this.favorite == filterParams.getFavorite() && this.contacted == filterParams.getContacted() && this.viewed == filterParams.getViewed() && this.haswhatsapp == filterParams.getHasWhatsapp()) {
+                            return true;
+                        }
+                    }
+                }
+            }
+        }
+        return false;
+    }
+
+    @Override
+    public int compareTo(PostingImpl posting) {
+        return this.feature.getRooms() - posting.feature.getRooms();
     }
 }
