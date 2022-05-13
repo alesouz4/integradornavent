@@ -14,7 +14,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-//        new UtilsPosting().generateFakePostings();
+     //   new UtilsPosting().generateFakePostings();
         FilterImpl filter1 = new FilterImpl(OPERATION_TYPE.ALQUILER, true, false, true, false, PUBLICATION_TYPE.CLASIFFIED, 1, 5, 1, 3);
         FilterImpl filter2 = new FilterImpl(OPERATION_TYPE.EMPRENDIMIENTOS, false, false, true, false, PUBLICATION_TYPE.HIGHLIGHTED, 1, 3, 1, 3);
         FilterImpl filter3 = new FilterImpl(OPERATION_TYPE.HIPOTECARIO, true, true, true, false, PUBLICATION_TYPE.CLASIFFIED, 1, 2, 1, 2 );

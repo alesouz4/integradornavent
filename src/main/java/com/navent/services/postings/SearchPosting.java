@@ -12,7 +12,7 @@ public class SearchPosting implements Postings {
 
     public boolean searchPostingByFilters(FilterImpl filter, PostingImpl posting) {
         if (filter.getOperationType() == posting.getOperationType() && filter.getPublicationType() == posting.getPublicationType()) {
-            if (filter.getContacted() && filter.getFavorite() && filter.getViewed() && filter.getHasWhatsapp()) {
+            if (filter.getContacted() ==posting.getContacted() && filter.getFavorite()==posting.getFavorite() && filter.getViewed()==posting.getViewed() && filter.getHasWhatsapp()==posting.getHaswhatsapp()) {
                 if (posting.getFeature().getRooms() >= filter.getRoomsFrom() && posting.getFeature().getRooms() <= filter.getRoomsTo()) {
                     if (posting.getFeature().getBathrooms() >= filter.getBathroomsFrom() && posting.getFeature().getBathrooms() <= filter.getBathroomsTo()) {
                         return true;
@@ -35,12 +35,3 @@ public class SearchPosting implements Postings {
         return filteredFakePostings;
     }
 }
-                /*System.out.println(filter);
-               System.out.println(posting.getOperationType());
-               System.out.println(posting.getFavorite());
-               System.out.println(posting.getContacted());
-               System.out.println(posting.getViewed());
-               System.out.println(posting.getHaswhatsapp());
-               System.out.println(posting.getPublicationType());
-               System.out.println(posting.getFeature().getRooms());
-               System.out.println(posting.getFeature().getBathrooms());*/
