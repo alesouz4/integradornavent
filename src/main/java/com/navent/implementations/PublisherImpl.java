@@ -8,6 +8,9 @@ public class PublisherImpl extends Publisher {
 
     private Boolean isPremier;
 
+    public PublisherImpl() {
+    }
+
     public PublisherImpl(String logoUrl, Boolean isPremier) {
         this.logoUrl = logoUrl;
         this.isPremier = isPremier;
@@ -33,5 +36,13 @@ public class PublisherImpl extends Publisher {
     @Override
     public void setIsPremier(Boolean premier) {
         this.isPremier = premier;
+    }
+
+    @Override
+    public String toString() {
+        return "{" +
+                "logoUrl='" + logoUrl + '\'' +
+                ", isPremier=" + isPremier +
+                '}';
     }
 }

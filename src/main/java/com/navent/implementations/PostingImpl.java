@@ -2,6 +2,7 @@ package com.navent.implementations;
 
 import com.navent.services.postings.*;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class PostingImpl extends Posting {
@@ -20,7 +21,7 @@ public class PostingImpl extends Posting {
 
     private Feature feature;
 
-    private List<String> tags;
+    private List<String> tags = new ArrayList<>();
 
     private boolean favorite;
 
@@ -40,6 +41,8 @@ public class PostingImpl extends Posting {
 
     private Publisher publisher;
 
+    public PostingImpl() {
+    }
 
     public PostingImpl(Long id, String title, String description, String address, String pictureURL, boolean isDevelopment, Feature feature, List<String> tags, boolean favorite, boolean contacted, boolean viewed, boolean haswhatsapp, PUBLICATION_TYPE publicationType, OPERATION_TYPE OPERATIONTYPE, CATEGORY_LISTING CATEGORYLISTING, Price price, Publisher publisher) {
         this.id = id;
@@ -69,11 +72,6 @@ public class PostingImpl extends Posting {
     @Override
     public boolean equals(Object obj) {
         return false;
-    }
-
-    @Override
-    public String toString() {
-        return null;
     }
 
     @Override
@@ -127,16 +125,6 @@ public class PostingImpl extends Posting {
     }
 
     @Override
-    public String getPicturesUrl() {
-        return this.pictureURL;
-    }
-
-    @Override
-    public void setPicturesUrl(String picturesUrl) {
-        this.pictureURL = picturesUrl;
-    }
-
-    @Override
     public boolean getIsDevelopment() {
         return this.IsDevelopment;
     }
@@ -144,16 +132,6 @@ public class PostingImpl extends Posting {
     @Override
     public void setIsDevelopment(Boolean Development) {
         this.IsDevelopment = Development;
-    }
-
-    @Override
-    public Feature getFeatures() {
-        return this.feature;
-    }
-
-    @Override
-    public void setFeatures(Feature features) {
-        this.feature = features;
     }
 
     @Override
@@ -275,5 +253,28 @@ public class PostingImpl extends Posting {
     @Override
     public void setPublisher(Publisher publisher) {
         this.publisher=publisher;
+    }
+
+    @Override
+    public String toString() {
+        return  "{" +
+                "id=" + id +
+                ", title='" + title + '\'' +
+                ", description='" + description + '\'' +
+                ", address='" + address + '\'' +
+                ", pictureURL='" + pictureURL + '\'' +
+                ", IsDevelopment=" + IsDevelopment +
+                ", feature=" + feature +
+                ", tags=" + tags +
+                ", favorite=" + favorite +
+                ", contacted=" + contacted +
+                ", viewed=" + viewed +
+                ", haswhatsapp=" + haswhatsapp +
+                ", publicationType=" + publicationType +
+                ", OPERATIONTYPE=" + OPERATIONTYPE +
+                ", CATEGORYLISTING=" + CATEGORYLISTING +
+                ", price=" + price +
+                ", publisher=" + publisher +
+                '}';
     }
 }

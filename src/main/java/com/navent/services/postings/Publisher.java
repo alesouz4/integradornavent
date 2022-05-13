@@ -1,5 +1,10 @@
 package com.navent.services.postings;
 
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.navent.implementations.PublisherImpl;
+
+@JsonDeserialize(as = PublisherImpl.class)
+
 public abstract class Publisher {
 
     abstract public String getLogoUrl();

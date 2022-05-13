@@ -14,6 +14,9 @@ public class FeatureImpl extends Feature {
 
     private Integer garages;
 
+    public FeatureImpl() {
+    }
+
     public FeatureImpl(Double totalArea, Integer rooms, Integer enviroments, Integer bathrooms, Integer garages) {
         this.totalArea = totalArea;
         this.rooms = rooms;

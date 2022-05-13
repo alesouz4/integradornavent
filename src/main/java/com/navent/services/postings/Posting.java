@@ -23,23 +23,15 @@ import java.util.List;
 
         abstract public void setAddress(String address);
 
-        abstract public String getPicturesUrl();
-
 //ejemplo
 
 //"https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
 
 //"https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg"
 
-        abstract public void setPicturesUrl(String picturesUrl);
-
         abstract public boolean getIsDevelopment();
 
         abstract public void setIsDevelopment(Boolean Development);
-
-        abstract public Feature getFeatures();
-
-        abstract public void setFeatures(Feature features);
 
         public abstract String getPictureUrl();
 
