@@ -1,0 +1,3203 @@
+[ {
+  "hashCode" : 0,
+  "id" : -6276143326176548182,
+  "title" : "Plaza Adela 38",
+  "description" : "Chuck Norris is immutable. If something's going to change, it's going to have to be the rest of the universe.",
+  "address" : "Puerta 286 Vía Ángela 10, Cartagena, Man 70309",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 998907.8488738561,
+    "expenses" : 9931.662566487881,
+    "priceLowerPercentage" : 96.73095486220268
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/8.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 99.00061826879325,
+    "rooms" : 2,
+    "environments" : 6,
+    "bathrooms" : 2,
+    "garages" : 6
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "ALQUILER"
+},
+
+  {
+  "hashCode" : 0,
+  "id" : -7007264051328638083,
+  "title" : "Calleja Marisol Granados 6",
+  "description" : "\"It works on my machine\" always holds true for Chuck Norris.",
+  "address" : "Edificio María Elena Arellano s/n. Esc. 613, León, Nav 59025",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 990059.6799366871,
+    "expenses" : 9938.99245308271,
+    "priceLowerPercentage" : 92.23293535714485
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/1.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 91.35164818682335,
+    "rooms" : 1,
+    "environments" : 7,
+    "bathrooms" : 2,
+    "garages" : 6
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "ALQUILER"
+}, {
+  "hashCode" : 0,
+  "id" : 8120464380304329516,
+  "title" : "Colegio Florencia Candelaria, 2 Esc. 997",
+  "description" : "Whiteboards are white because Chuck Norris scared them that way.",
+  "address" : "Rambla Reina s/n., Avilés, Cat 37085",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 995394.1438825441,
+    "expenses" : 9982.908435502455,
+    "priceLowerPercentage" : 99.42049157772561
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 93.06769821802686,
+    "rooms" : 7,
+    "environments" : 3,
+    "bathrooms" : 5,
+    "garages" : 7
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "ALQUILER"
+}, {
+  "hashCode" : 0,
+  "id" : -8665275041143945990,
+  "title" : "Escalinata Graciela s/n. Esc. 863",
+  "description" : "Anonymous methods and anonymous types are really all called Chuck Norris. They just don't like to boast.",
+  "address" : "Aldea Antonio Sauceda, 6, Guadalajara, Mur 79181",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 994474.6784131369,
+    "expenses" : 9966.754972439254,
+    "priceLowerPercentage" : 92.60114571624584
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/12.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 93.39894677047317,
+    "rooms" : 2,
+    "environments" : 8,
+    "bathrooms" : 3,
+    "garages" : 7
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : 610204395119631469,
+  "title" : "Masía Dorotea Piña, 6 Puerta 937",
+  "description" : "Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.",
+  "address" : "Puerta 412 Extramuros Bernardo Fuentes s/n. Esc. 411, Santa Lucía de Tirajana, Cbr 00756",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 991697.8292737524,
+    "expenses" : 9912.75532922429,
+    "priceLowerPercentage" : 93.97016037442684
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 96.08773623151679,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 7,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "EMPRENDIMIENTOS"
+}, {
+  "hashCode" : 0,
+  "id" : 5686171382939936831,
+  "title" : "Barranco Timoteo 7",
+  "description" : "Chuck Norris doesn't need the cloud to scale his applications, he uses his laptop.",
+  "address" : "Esc. 165 Paseo Raúl Guzmán, 6, Alcalá de Henares, Vas 86901",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 991826.7523873969,
+    "expenses" : 9972.372397085406,
+    "priceLowerPercentage" : 90.29318697573905
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 92.68334495438509,
+    "rooms" : 6,
+    "environments" : 2,
+    "bathrooms" : 7,
+    "garages" : 8
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : 8941755481886008408,
+  "title" : "Calleja Carlota s/n. Puerta 922",
+  "description" : "All browsers support the hex definitions #chuck and #norris for the colors black and blue.",
+  "address" : "Esc. 400 Extrarradio Adriana Tamez s/n., Cuenta, Ext 20942",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 994779.1850179795,
+    "expenses" : 9967.244344442497,
+    "priceLowerPercentage" : 93.09887919230586
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 90.45775119253695,
+    "rooms" : 3,
+    "environments" : 9,
+    "bathrooms" : 1,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : 5643432560699995152,
+  "title" : "Carretera Marisol s/n. Esc. 825",
+  "description" : "There is no need to try catching Chuck Norris' exceptions for recovery; every single throw he does is fatal.",
+  "address" : "Avenida Ramón, 21, Gandía, Rio 00564",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 992412.394771451,
+    "expenses" : 9974.188049629473,
+    "priceLowerPercentage" : 92.42282336279281
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 92.92732902494427,
+    "rooms" : 9,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : 6335902552843918949,
+  "title" : "Monte María del Carmen, 1",
+  "description" : "Chuck Norris can write infinite recursion functions... and have them return.",
+  "address" : "Chalet Norma Almaraz, 38 Puerta 443, Ceuta, Cbr 67260",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 993748.6528161272,
+    "expenses" : 9978.192720565987,
+    "priceLowerPercentage" : 91.80931489882602
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/1.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 92.69502243058722,
+    "rooms" : 5,
+    "environments" : 6,
+    "bathrooms" : 7,
+    "garages" : 4
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "ALQUILER"
+}, {
+  "hashCode" : 0,
+  "id" : -1571167298966819547,
+  "title" : "Bloque Olivia Carrasco, 8",
+  "description" : "Chuck Norris' keyboard doesn't have a F1 key, the computer asks him for help.",
+  "address" : "Esc. 985 Glorieta Horacio, 62, Castellón de la Plana, Ara 35159",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 998870.4149125401,
+    "expenses" : 9930.74213970224,
+    "priceLowerPercentage" : 91.32581067291224
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 97.40725529177658,
+    "rooms" : 2,
+    "environments" : 9,
+    "bathrooms" : 2,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "EMPRENDIMIENTOS"
+}, {
+  "hashCode" : 0,
+  "id" : 3635111467359929284,
+  "title" : "Rincón Alfonso, 8",
+  "description" : "Quantum cryptography does not work on Chuck Norris. When something is being observed by Chuck it stays in the same state until he's finished.",
+  "address" : "Esc. 461 Terrenos Manuela s/n., Valdemoro, Nav 95175",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 996593.8535659489,
+    "expenses" : 9929.870514074082,
+    "priceLowerPercentage" : 96.59028793268446
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 90.39131798679207,
+    "rooms" : 1,
+    "environments" : 8,
+    "bathrooms" : 7,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : -3552153352839019147,
+  "title" : "Ferrocarril María Cristina Muro 3 Esc. 363",
+  "description" : "When Chuck Norris gives a method an argument, the method loses.",
+  "address" : "Vía Pública Conchita Nájera s/n., Torrevieja, Can 38974",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 991028.2115401722,
+    "expenses" : 9916.939233510011,
+    "priceLowerPercentage" : 95.84380241607253
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 99.8839235235673,
+    "rooms" : 3,
+    "environments" : 5,
+    "bathrooms" : 5,
+    "garages" : 1
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : -4160705309761423255,
+  "title" : "Apartamento Daniel s/n.",
+  "description" : "There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.",
+  "address" : "Puerta 997 Polígono Marta Alaniz, 65 Esc. 112, Sanlúcar de Barrameda, Mur 62327",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 996023.5072217606,
+    "expenses" : 9958.266913530477,
+    "priceLowerPercentage" : 98.79898222044606
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 90.13049546559587,
+    "rooms" : 5,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : 2934153644966889574,
+  "title" : "Jardines José Medina 2",
+  "description" : "Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.",
+  "address" : "Barranco Raquel 86 Puerta 674, Guadalajara, Vas 47787",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 996792.7208209255,
+    "expenses" : 9931.026101587078,
+    "priceLowerPercentage" : 94.22418783295208
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 96.87178739674465,
+    "rooms" : 4,
+    "environments" : 5,
+    "bathrooms" : 6,
+    "garages" : 6
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "EMPRENDIMIENTOS"
+}, {
+  "hashCode" : 0,
+  "id" : -8093328128475887579,
+  "title" : "Prolongación Elvira s/n.",
+  "description" : "All browsers support the hex definitions #chuck and #norris for the colors black and blue.",
+  "address" : "Senda Anita, 12 Puerta 694, Logroño, Gal 42550",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 994133.9038682204,
+    "expenses" : 9917.221470108256,
+    "priceLowerPercentage" : 94.56619210964641
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 91.27727569133192,
+    "rooms" : 5,
+    "environments" : 3,
+    "bathrooms" : 9,
+    "garages" : 4
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : 7285820987641824540,
+  "title" : "Avenida Gilberto s/n. Esc. 929",
+  "description" : "Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.",
+  "address" : "Puerta 717 Calle Susana Collado s/n., Ávila, Ext 54985",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 993598.3884066654,
+    "expenses" : 9964.24659622714,
+    "priceLowerPercentage" : 91.0009960049477
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 94.15357054335671,
+    "rooms" : 4,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : 8358030209017148696,
+  "title" : "Caserio Marco Antonio, 9 Puerta 647",
+  "description" : "Chuck Norris' keyboard doesn't have a F1 key, the computer asks him for help.",
+  "address" : "Colegio Rubén s/n., Ferrol, Can 34175",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 999968.4124242362,
+    "expenses" : 9961.982844526194,
+    "priceLowerPercentage" : 92.82091255901452
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/1.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 97.69733380948904,
+    "rooms" : 8,
+    "environments" : 2,
+    "bathrooms" : 5,
+    "garages" : 4
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : 576399460773826697,
+  "title" : "Urbanización Fernando, 3 Esc. 982",
+  "description" : "Chuck Norris doesn't use web standards as the web will conform to him.",
+  "address" : "Calleja Vicente Casillas, 3, La Coruña, Can 71187",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 992137.9541149911,
+    "expenses" : 9970.024516811856,
+    "priceLowerPercentage" : 92.73004521960607
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 92.81330236300346,
+    "rooms" : 6,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "ALQUILER"
+}, {
+  "hashCode" : 0,
+  "id" : 5059768862414342309,
+  "title" : "Solar Débora Roldán, 8 Esc. 608",
+  "description" : "Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.",
+  "address" : "Esc. 378 Pasaje Manuela 60 Puerta 905, Benidorm, Rio 19112",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 995183.4201044495,
+    "expenses" : 9908.142010303802,
+    "priceLowerPercentage" : 90.22588488655893
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 98.83827226940903,
+    "rooms" : 4,
+    "environments" : 6,
+    "bathrooms" : 1,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : 4855304657818091177,
+  "title" : "Quinta Salvador Alcaraz, 15 Esc. 048",
+  "description" : "When Chuck Norris gives a method an argument, the method loses.",
+  "address" : "Prolongación José María, 49 Puerta 508, Lorca, Mad 39409",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 990800.324474133,
+    "expenses" : 9967.866424312286,
+    "priceLowerPercentage" : 93.7128943149304
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 94.45881578859746,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 8,
+    "garages" : 1
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/8.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "REMATE"
+}, {
+  "hashCode" : 0,
+  "id" : -5301856031943415036,
+  "title" : "Apartamento Esteban Aranda, 06 Esc. 811",
+  "description" : "Chuck Norris can access the DB from the UI.",
+  "address" : "Esc. 362 Prolongación Julio César Rosas, 65, Mollet del Vallés, Ext 87389",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 997950.8561599946,
+    "expenses" : 9943.736739226846,
+    "priceLowerPercentage" : 92.85366982639867
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/12.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 97.91710840403742,
+    "rooms" : 4,
+    "environments" : 9,
+    "bathrooms" : 6,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : -5747210664741699763,
+  "title" : "Municipio Adriana Franco, 70",
+  "description" : "Chuck Norris does not use exceptions when programming. He has not been able to identify any of his code that is not exceptional.",
+  "address" : "Puerta 805 Rincón Julio Ibarra 25 Puerta 052, León, Leo 28483",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 994027.9232222338,
+    "expenses" : 9937.635034172226,
+    "priceLowerPercentage" : 98.24008006211838
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 91.57247560626507,
+    "rooms" : 9,
+    "environments" : 2,
+    "bathrooms" : 2,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/1.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : -2441940680235944764,
+  "title" : "Glorieta María, 97 Esc. 866",
+  "description" : "Chuck Norris rewrote the Google search engine from scratch.",
+  "address" : "Calle Victoria, 7 Puerta 871, Almería, Ara 98224",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 992344.6843254318,
+    "expenses" : 9941.83847609746,
+    "priceLowerPercentage" : 98.53325935577777
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 92.81959441536073,
+    "rooms" : 9,
+    "environments" : 1,
+    "bathrooms" : 6,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/8.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : 7045151707435938768,
+  "title" : "Rampa María Eugenia s/n. Esc. 768",
+  "description" : "Chuck Norris never gets a syntax error. Instead, the language gets a DoesNotConformToChuck error.",
+  "address" : "Bloque Florencia Fonseca s/n. Puerta 134, Rubí, Vas 71260",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 996925.9478655084,
+    "expenses" : 9974.198578867754,
+    "priceLowerPercentage" : 91.29284146058023
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 97.81844450030773,
+    "rooms" : 4,
+    "environments" : 9,
+    "bathrooms" : 5,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : -8764364670833118355,
+  "title" : "Subida Andrea Correa 73 Esc. 477",
+  "description" : "Chuck Norris can recite π. Backwards.",
+  "address" : "Calle Dorotea Ortega s/n., Mataró, Can 51048",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 991252.7658859902,
+    "expenses" : 9976.14144123082,
+    "priceLowerPercentage" : 90.46806972825011
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 98.14889267043937,
+    "rooms" : 8,
+    "environments" : 9,
+    "bathrooms" : 3,
+    "garages" : 4
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : -1233831660887460131,
+  "title" : "Glorieta Martín Olivas, 27 Esc. 045",
+  "description" : "Chuck Norris does not use revision control software. None of his code has ever needed revision.",
+  "address" : "Puerta 442 Huerta Raquel, 6 Esc. 038, Avilés, Nav 90836",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 993877.7164979335,
+    "expenses" : 9999.085066493997,
+    "priceLowerPercentage" : 99.01328468159782
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 97.55369490915918,
+    "rooms" : 7,
+    "environments" : 4,
+    "bathrooms" : 9,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "EMPRENDIMIENTOS"
+}, {
+  "hashCode" : 0,
+  "id" : -187380506385691064,
+  "title" : "Solar Esperanza Barrientos s/n.",
+  "description" : "Chuck Norris' programs occupy 150% of CPU, even when they are not executing.",
+  "address" : "Apartamento Magdalena s/n. Puerta 195, Hospitalet de LLobregat, Rio 93680",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 990154.1123710443,
+    "expenses" : 9926.593249716778,
+    "priceLowerPercentage" : 99.06360038039922
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 94.46133306675887,
+    "rooms" : 7,
+    "environments" : 6,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/12.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : 409613483433977159,
+  "title" : "Lado Conchita Camacho 7 Puerta 767",
+  "description" : "Chuck Norris can divide by zero.",
+  "address" : "Puerta 447 Ferrocarril Alfonso, 83 Puerta 529, San Fernando, Ext 51992",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 998289.388626233,
+    "expenses" : 9901.28438302542,
+    "priceLowerPercentage" : 92.61523951390997
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 97.69687958786793,
+    "rooms" : 1,
+    "environments" : 8,
+    "bathrooms" : 8,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : 6311069263005112867,
+  "title" : "Colegio Víctor 4 Puerta 002",
+  "description" : "The class object inherits from Chuck Norris.",
+  "address" : "Explanada Elisa Roybal 94 Esc. 473, Collado Villalba, Ext 81043",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 990408.9466051866,
+    "expenses" : 9953.214597383127,
+    "priceLowerPercentage" : 91.91060420299084
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 92.41429107648068,
+    "rooms" : 4,
+    "environments" : 7,
+    "bathrooms" : 7,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : -7335909808390042919,
+  "title" : "Apartamento Clara, 2 Puerta 269",
+  "description" : "Chuck Norris solved the Travelling Salesman problem in O(1) time.",
+  "address" : "Calle Leticia Estrada, 53, Santa Coloma de Gramanet, Can 20922",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 990624.5635405697,
+    "expenses" : 9946.593145690626,
+    "priceLowerPercentage" : 90.96076662712306
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/8.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 95.02615377710656,
+    "rooms" : 8,
+    "environments" : 9,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "FORECLOSURE"
+}, {
+  "hashCode" : 0,
+  "id" : 3140238274738120629,
+  "title" : "Puerta Mariano 87",
+  "description" : "Chuck Norris rewrote the Google search engine from scratch.",
+  "address" : "Barrio Alfredo, 16, Palma de Mallorca, Cbr 86245",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 996809.736527554,
+    "expenses" : 9967.75182405728,
+    "priceLowerPercentage" : 98.06344084206334
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 99.20971926451324,
+    "rooms" : 5,
+    "environments" : 5,
+    "bathrooms" : 3,
+    "garages" : 1
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : 7918572316918213301,
+  "title" : "Huerta Yolanda Sevilla s/n. Puerta 329",
+  "description" : "Chuck Norris never gets a syntax error. Instead, the language gets a DoesNotConformToChuck error.",
+  "address" : "Escalinata Hugo Malave s/n., Sevilla, Com 12790",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 998142.1126488182,
+    "expenses" : 9939.571411077686,
+    "priceLowerPercentage" : 92.66713097297212
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/8.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 96.57548887139882,
+    "rooms" : 8,
+    "environments" : 9,
+    "bathrooms" : 4,
+    "garages" : 5
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : -8549051385177532715,
+  "title" : "Calle Norma, 7",
+  "description" : "Chuck Norris does not use exceptions when programming. He has not been able to identify any of his code that is not exceptional.",
+  "address" : "Lado Javier 65 Puerta 211, Orense, Mur 84330",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 994656.8725767047,
+    "expenses" : 9974.398621257773,
+    "priceLowerPercentage" : 92.16700403384999
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 96.15219880688618,
+    "rooms" : 4,
+    "environments" : 6,
+    "bathrooms" : 9,
+    "garages" : 8
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "REMATE"
+}, {
+  "hashCode" : 0,
+  "id" : 1458354580105105958,
+  "title" : "Salida Samuel Quezada 3 Puerta 999",
+  "description" : "Chuck Norris doesn't need to know about class factory pattern. He can instantiate interfaces.",
+  "address" : "Camino Gabriela 6 Esc. 691, Cuenta, Gal 27563",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 995038.98390739,
+    "expenses" : 9901.823499995973,
+    "priceLowerPercentage" : 90.97958625480115
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 92.28878715849426,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 4,
+    "garages" : 1
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/8.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : -363064644062597315,
+  "title" : "Masía Emilia Laureano 3 Puerta 894",
+  "description" : "Chuck Norris' protocol design method has no status, requests or responses, only commands.",
+  "address" : "Esc. 994 Parque Ana María, 99, Molina de Segura, And 96308",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 997536.2511894557,
+    "expenses" : 9942.63776958275,
+    "priceLowerPercentage" : 93.36844084629153
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 91.39893763646008,
+    "rooms" : 2,
+    "environments" : 1,
+    "bathrooms" : 5,
+    "garages" : 6
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : -2760069242180465614,
+  "title" : "Terrenos Clemente Almanza s/n. Esc. 101",
+  "description" : "Chuck Norris can divide by zero.",
+  "address" : "Rampa Manuel 5 Esc. 363, San Fernando, Vas 59617",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 998832.0752737949,
+    "expenses" : 9988.87383626109,
+    "priceLowerPercentage" : 98.85328198531414
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/8.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 92.80426106022979,
+    "rooms" : 8,
+    "environments" : 8,
+    "bathrooms" : 2,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/12.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "REMATE"
+}, {
+  "hashCode" : 0,
+  "id" : -4379749479453671949,
+  "title" : "Huerta Gustavo Riojas 79 Esc. 997",
+  "description" : "There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.",
+  "address" : "Puerta 477 Torrente Lorenzo 66 Puerta 217, Alicante, Cbr 17797",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 998169.7904518056,
+    "expenses" : 9949.801328486372,
+    "priceLowerPercentage" : 99.65942088221789
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 91.44701885626053,
+    "rooms" : 3,
+    "environments" : 6,
+    "bathrooms" : 4,
+    "garages" : 8
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : -7581125673271600087,
+  "title" : "Masía Jorge 1",
+  "description" : "Chuck Norris can instantiate an abstract class.",
+  "address" : "Carretera Vicente Quintero 8 Puerta 411, Inca, Com 82330",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 996063.6086121927,
+    "expenses" : 9958.364019574341,
+    "priceLowerPercentage" : 92.06582159266938
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/1.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 92.28104610126138,
+    "rooms" : 4,
+    "environments" : 8,
+    "bathrooms" : 3,
+    "garages" : 6
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "FORECLOSURE"
+}, {
+  "hashCode" : 0,
+  "id" : -5692186133065785980,
+  "title" : "Carretera Lola, 49",
+  "description" : "Chuck Norris can't test for equality because he has no equal.",
+  "address" : "Edificio Estela 02, San Sebastían de los Reyes, Rio 30076",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 990374.7900072443,
+    "expenses" : 9989.598562829025,
+    "priceLowerPercentage" : 91.45138132646719
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/1.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 91.87089495240804,
+    "rooms" : 5,
+    "environments" : 1,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : 8865784222191818087,
+  "title" : "Vía Julia Gaona, 7 Puerta 284",
+  "description" : "Chuck Norris can recite π. Backwards.",
+  "address" : "Gran Subida Ignacio Laboy s/n. Esc. 433, Parla, Cat 68314",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 995943.8452190505,
+    "expenses" : 9987.94791652455,
+    "priceLowerPercentage" : 98.0913361628829
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 99.07564834099774,
+    "rooms" : 8,
+    "environments" : 8,
+    "bathrooms" : 1,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "EMPRENDIMIENTOS"
+}, {
+  "hashCode" : 0,
+  "id" : 3913384029935607230,
+  "title" : "Urbanización Mayte Avilés, 6 Puerta 802",
+  "description" : "Chuck Norris's first program was kill -9.",
+  "address" : "Vía Marcela 0 Puerta 052, Algeciras, Bal 76825",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 997571.5615102215,
+    "expenses" : 9974.758323721375,
+    "priceLowerPercentage" : 99.59580105882405
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 99.12906514590792,
+    "rooms" : 7,
+    "environments" : 3,
+    "bathrooms" : 8,
+    "garages" : 5
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "FORECLOSURE"
+}, {
+  "hashCode" : 0,
+  "id" : -1288924883636797317,
+  "title" : "Pasaje Lucas, 2",
+  "description" : "Chuck Norris doesn't believe in floating point numbers because they can't be typed on his binary keyboard.",
+  "address" : "Esc. 700 Senda Antonia Partida, 3, Toledo, Leo 99076",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 991752.7304245457,
+    "expenses" : 9963.560466013278,
+    "priceLowerPercentage" : 93.91572754650576
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 98.8411759556358,
+    "rooms" : 1,
+    "environments" : 9,
+    "bathrooms" : 9,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "FORECLOSURE"
+}, {
+  "hashCode" : 0,
+  "id" : 5770390101835190176,
+  "title" : "Rampa Esperanza Haro 6 Puerta 924",
+  "description" : "Chuck Norris doesn't need a java compiler, he goes straight to .war",
+  "address" : "Esc. 956 Puente Rosario, 2, Tarragona, Vas 55071",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 999123.7679164263,
+    "expenses" : 9985.135115368883,
+    "priceLowerPercentage" : 91.24290824516376
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 92.26547765978414,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : 6439613317112121686,
+  "title" : "Avenida Victoria Gallardo, 61",
+  "description" : "The class object inherits from Chuck Norris.",
+  "address" : "Puerta 488 Rambla Cristina Barela 24, Valencia, Nav 27188",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 991494.2445531626,
+    "expenses" : 9928.679861267847,
+    "priceLowerPercentage" : 90.18526867041498
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 91.70325807172502,
+    "rooms" : 1,
+    "environments" : 4,
+    "bathrooms" : 8,
+    "garages" : 7
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : 8223495827170517046,
+  "title" : "Cuesta Luis Griego, 5 Puerta 468",
+  "description" : "Chuck Norris can solve the Towers of Hanoi in one move.",
+  "address" : "Apartamento Verónica, 28, Móstoles, Cbr 90723",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 995237.8285649741,
+    "expenses" : 9964.037142929432,
+    "priceLowerPercentage" : 94.15550254104436
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 98.15839901033763,
+    "rooms" : 6,
+    "environments" : 6,
+    "bathrooms" : 2,
+    "garages" : 7
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "FORECLOSURE"
+}, {
+  "hashCode" : 0,
+  "id" : 2172894482505415130,
+  "title" : "Extramuros Emilia Longoria, 88 Puerta 024",
+  "description" : "Chuck Norris can write infinite recursion functions... and have them return.",
+  "address" : "Esc. 533 Paseo Soledad 27, Telde, Man 58433",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 992434.7651281749,
+    "expenses" : 9923.086941793532,
+    "priceLowerPercentage" : 90.61593809231505
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 95.34707369243557,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 5,
+    "garages" : 6
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : 5166613887737252553,
+  "title" : "Ramal Marisol 5",
+  "description" : "Chuck Norris can't test for equality because he has no equal.",
+  "address" : "Terrenos Horacio 5, Ceuta, Can 80460",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 994574.2013408544,
+    "expenses" : 9958.512489304845,
+    "priceLowerPercentage" : 97.44288155077689
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 99.71392142493804,
+    "rooms" : 7,
+    "environments" : 7,
+    "bathrooms" : 7,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : 6355919840134058007,
+  "title" : "Rua Graciela, 9",
+  "description" : "Anonymous methods and anonymous types are really all called Chuck Norris. They just don't like to boast.",
+  "address" : "Senda María José s/n., El Ejido, Vas 15681",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 990962.2935243846,
+    "expenses" : 9948.305108244816,
+    "priceLowerPercentage" : 92.5747185857319
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 92.74656614116584,
+    "rooms" : 3,
+    "environments" : 6,
+    "bathrooms" : 5,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : 654506664097165860,
+  "title" : "Rambla Norma, 1",
+  "description" : "Chuck Norris doesn't need a java compiler, he goes straight to .war",
+  "address" : "Conjunto José Luis Fernández, 55 Puerta 590, Valdemoro, Rio 37949",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 993458.3918367728,
+    "expenses" : 9938.027997839934,
+    "priceLowerPercentage" : 95.29008823729323
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 90.1936565363469,
+    "rooms" : 5,
+    "environments" : 1,
+    "bathrooms" : 4,
+    "garages" : 6
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "REMATE"
+}, {
+  "hashCode" : 0,
+  "id" : -5553513093051431428,
+  "title" : "Barrio Jorge Luis Moya, 18 Puerta 658",
+  "description" : "When a bug sees Chuck Norris, it flees screaming in terror, and then immediately self-destructs to avoid being roundhouse-kicked.",
+  "address" : "Puerta 817 Apartamento Agustín Archuleta, 2 Esc. 978, Torrevieja, Cbr 19245",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 996959.2735245553,
+    "expenses" : 9902.932293147422,
+    "priceLowerPercentage" : 93.29114691179046
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/12.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 93.16191136462099,
+    "rooms" : 5,
+    "environments" : 3,
+    "bathrooms" : 8,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "REMATE"
+}, {
+  "hashCode" : 0,
+  "id" : 6087844767393638081,
+  "title" : "Arroyo Verónica Avilés, 3",
+  "description" : "Chuck Norris can divide by zero.",
+  "address" : "Lugar Luis Miguel Chapa, 2, Torrelavega, Ast 11280",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 999326.5864189058,
+    "expenses" : 9921.59287996247,
+    "priceLowerPercentage" : 92.0857356010542
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 95.01494799799947,
+    "rooms" : 1,
+    "environments" : 7,
+    "bathrooms" : 8,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : 5706163326344001836,
+  "title" : "Senda Gustavo 3 Esc. 109",
+  "description" : "Whiteboards are white because Chuck Norris scared them that way.",
+  "address" : "Esc. 793 Sector Ramón Venegas, 9, San Cristróbal de la Laguna, Can 74866",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 994591.4141234801,
+    "expenses" : 9929.626395552777,
+    "priceLowerPercentage" : 92.40305403172822
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 91.94017830824218,
+    "rooms" : 6,
+    "environments" : 5,
+    "bathrooms" : 8,
+    "garages" : 4
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "FORECLOSURE"
+}, {
+  "hashCode" : 0,
+  "id" : 4159475908685446266,
+  "title" : "Arrabal Gonzalo García 4 Puerta 306",
+  "description" : "When Chuck Norris presses Ctrl+Alt+Delete, worldwide computer restart is initiated.",
+  "address" : "Entrada Rebeca Puente 6 Puerta 021, Irún, And 80558",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 999602.3795071292,
+    "expenses" : 9964.22318986704,
+    "priceLowerPercentage" : 95.59379571264229
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 94.29779277857575,
+    "rooms" : 2,
+    "environments" : 2,
+    "bathrooms" : 8,
+    "garages" : 5
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "EMPRENDIMIENTOS"
+}, {
+  "hashCode" : 0,
+  "id" : -5189778687921060275,
+  "title" : "Puerta Gilberto González, 27 Puerta 237",
+  "description" : "Chuck Norris programs do not accept input.",
+  "address" : "Rambla Agustín Noriega 3 Puerta 515, San Sebastián, Man 50265",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 991006.8478800118,
+    "expenses" : 9986.104025448707,
+    "priceLowerPercentage" : 91.81818856643702
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 93.28930489179896,
+    "rooms" : 7,
+    "environments" : 5,
+    "bathrooms" : 5,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "ALQUILER"
+}, {
+  "hashCode" : 0,
+  "id" : -6587576332103080491,
+  "title" : "Pasaje Lourdes 15",
+  "description" : "Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.",
+  "address" : "Colonia Laura 37 Esc. 782, Zamora, Vas 02580",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 993636.4857658268,
+    "expenses" : 9987.881114281254,
+    "priceLowerPercentage" : 94.97407336217219
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 90.36104339333868,
+    "rooms" : 3,
+    "environments" : 7,
+    "bathrooms" : 9,
+    "garages" : 4
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "EMPRENDIMIENTOS"
+}, {
+  "hashCode" : 0,
+  "id" : 5587330757147722773,
+  "title" : "Rampa Isabela Bahena 90",
+  "description" : "There is no need to try catching Chuck Norris' exceptions for recovery; every single throw he does is fatal.",
+  "address" : "Conjunto Pablo Armendáriz 6, Alcalá de Guadaira, Man 95310",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 994961.7290038355,
+    "expenses" : 9912.175601982515,
+    "priceLowerPercentage" : 94.07830567063768
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 91.56854373965605,
+    "rooms" : 3,
+    "environments" : 8,
+    "bathrooms" : 5,
+    "garages" : 1
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "FORECLOSURE"
+}, {
+  "hashCode" : 0,
+  "id" : 5877225790315242491,
+  "title" : "Sección Alicia Valencia 0",
+  "description" : "Chuck Norris doesn't delete files, he blows them away.",
+  "address" : "Polígono María Teresa, 8 Puerta 947, Vigo, Man 14937",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 990312.3821062086,
+    "expenses" : 9971.494416365396,
+    "priceLowerPercentage" : 94.80916719364917
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 91.80089771266945,
+    "rooms" : 8,
+    "environments" : 5,
+    "bathrooms" : 4,
+    "garages" : 6
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : 7999787146310360075,
+  "title" : "Torrente Susana, 6",
+  "description" : "Chuck Norris can access the DB from the UI.",
+  "address" : "Calleja César Pelayo 59, Talavera de la Reina, Vas 80464",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 996143.1727431439,
+    "expenses" : 9988.434657790169,
+    "priceLowerPercentage" : 93.11306401438733
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/8.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 98.88362386719444,
+    "rooms" : 5,
+    "environments" : 3,
+    "bathrooms" : 6,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : -4118087877852058966,
+  "title" : "Torrente Alfonso, 90",
+  "description" : "Chuck Norris knows the last digit of PI.",
+  "address" : "Esc. 445 Explanada Ramona Velázquez 76 Esc. 476, Alcobendas, Com 18534",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 999331.7444061135,
+    "expenses" : 9961.69995694473,
+    "priceLowerPercentage" : 90.08064211080128
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 94.14505862976908,
+    "rooms" : 3,
+    "environments" : 3,
+    "bathrooms" : 9,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "EMPRENDIMIENTOS"
+}, {
+  "hashCode" : 0,
+  "id" : 1164968153524001464,
+  "title" : "Barranco Jorge 1",
+  "description" : "Chuck Norris does not use revision control software. None of his code has ever needed revision.",
+  "address" : "Arroyo Sergio Salinas, 4, Alcalá de Guadaira, Leo 18216",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 998222.0413216504,
+    "expenses" : 9977.687401815148,
+    "priceLowerPercentage" : 95.29179402770131
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 95.2521231037414,
+    "rooms" : 3,
+    "environments" : 1,
+    "bathrooms" : 8,
+    "garages" : 1
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : -2687851322146574074,
+  "title" : "Parcela Rosalia Cervantes 1 Esc. 703",
+  "description" : "Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.",
+  "address" : "Calleja Miguel 08 Esc. 881, Madrid, Can 24985",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 992077.9813932118,
+    "expenses" : 9951.198360976277,
+    "priceLowerPercentage" : 94.25656107319664
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 93.75718522353928,
+    "rooms" : 9,
+    "environments" : 4,
+    "bathrooms" : 8,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "ALQUILER"
+}, {
+  "hashCode" : 0,
+  "id" : -8717987846764451432,
+  "title" : "Lugar Daniel Verduzco, 7",
+  "description" : "Chuck Norris' programs occupy 150% of CPU, even when they are not executing.",
+  "address" : "Esc. 450 Polígono Ester Menéndez 0 Puerta 134, Marbella, And 88860",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 999425.768069206,
+    "expenses" : 9989.837225281062,
+    "priceLowerPercentage" : 99.77013399051276
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 99.15645623231507,
+    "rooms" : 9,
+    "environments" : 8,
+    "bathrooms" : 7,
+    "garages" : 7
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : -2238096149571919422,
+  "title" : "Arrabal Luis Alvarado 5 Esc. 618",
+  "description" : "Chuck Norris' protocol design method has no status, requests or responses, only commands.",
+  "address" : "Manzana Hugo Escobedo 9, Orihuela, Bal 78178",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 992211.7306586145,
+    "expenses" : 9961.209152136478,
+    "priceLowerPercentage" : 90.58533199346105
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 91.03281643337272,
+    "rooms" : 6,
+    "environments" : 3,
+    "bathrooms" : 4,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : 8482125204329633245,
+  "title" : "Extramuros Rosario s/n. Puerta 404",
+  "description" : "Chuck Norris can solve the Towers of Hanoi in one move.",
+  "address" : "Mercado Lorenzo s/n. Esc. 055, Sevilla, Vas 91299",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 993332.1756752736,
+    "expenses" : 9986.264948101194,
+    "priceLowerPercentage" : 90.33351484863609
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 93.47731504939983,
+    "rooms" : 7,
+    "environments" : 9,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/12.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : 5117648209193247170,
+  "title" : "Huerta Luisa Riojas, 38 Esc. 513",
+  "description" : "Anonymous methods and anonymous types are really all called Chuck Norris. They just don't like to boast.",
+  "address" : "Huerta Natalia 6, Linares, Rio 06967",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 997988.504386435,
+    "expenses" : 9998.3686846311,
+    "priceLowerPercentage" : 99.6315747691788
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 91.37336898305368,
+    "rooms" : 6,
+    "environments" : 3,
+    "bathrooms" : 6,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/12.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : 3883333477600264271,
+  "title" : "Escalinata Natalia 2",
+  "description" : "Chuck Norris can't test for equality because he has no equal.",
+  "address" : "Puerta 269 Avenida Cristian s/n., Jaén, Leo 29894",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 991543.0840626982,
+    "expenses" : 9906.73188048847,
+    "priceLowerPercentage" : 90.46078033239002
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 94.76502795193528,
+    "rooms" : 8,
+    "environments" : 9,
+    "bathrooms" : 7,
+    "garages" : 7
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : 3200290007405599721,
+  "title" : "Parcela Mariano 51 Puerta 767",
+  "description" : "The only pattern Chuck Norris knows is God Object.",
+  "address" : "Lugar Manuela Godoy 9 Esc. 313, Puertollano, Mad 70978",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 997119.0616709894,
+    "expenses" : 9952.949955742628,
+    "priceLowerPercentage" : 95.38721919223897
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 99.96644215661308,
+    "rooms" : 8,
+    "environments" : 6,
+    "bathrooms" : 8,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : 5244132697826642664,
+  "title" : "Poblado Andrés, 3 Esc. 440",
+  "description" : "Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.",
+  "address" : "Puerta 717 Parcela Timoteo Prieto, 3 Puerta 881, Majadahonda, Ext 97513",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 992616.1207418609,
+    "expenses" : 9971.572294837144,
+    "priceLowerPercentage" : 99.43028169597754
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 97.63791799679656,
+    "rooms" : 7,
+    "environments" : 5,
+    "bathrooms" : 8,
+    "garages" : 7
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/12.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : 233301309248949645,
+  "title" : "Explanada Débora Ozuna 0",
+  "description" : "Chuck Norris can recite π. Backwards.",
+  "address" : "Ferrocarril Elsa 99 Esc. 476, Benidorm, Mur 34684",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 994232.3317602513,
+    "expenses" : 9958.464696851495,
+    "priceLowerPercentage" : 97.14258840538656
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 96.51365897770913,
+    "rooms" : 1,
+    "environments" : 5,
+    "bathrooms" : 6,
+    "garages" : 1
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : 2635480639838160556,
+  "title" : "Arrabal José María, 41",
+  "description" : "Chuck Norris went out of an infinite loop.",
+  "address" : "Explanada Mariana Tamez 3, Ponferrada, Mur 51330",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 996064.3225082643,
+    "expenses" : 9975.518121986861,
+    "priceLowerPercentage" : 99.88348561439882
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 90.12267290100239,
+    "rooms" : 3,
+    "environments" : 7,
+    "bathrooms" : 9,
+    "garages" : 4
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : 6761317798629766246,
+  "title" : "Glorieta Pilar 2 Puerta 133",
+  "description" : "When Chuck Norris presses Ctrl+Alt+Delete, worldwide computer restart is initiated.",
+  "address" : "Esc. 921 Lugar Concepción s/n., Elda, Mad 84031",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 996276.6634122632,
+    "expenses" : 9982.740725108963,
+    "priceLowerPercentage" : 94.85575443283464
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 98.78964996264642,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 9,
+    "garages" : 5
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : -6119404430593974224,
+  "title" : "Parque Fernando Sarabia 94",
+  "description" : "Chuck Norris's beard can type 140 wpm.",
+  "address" : "Sector Homero, 67, Murcia, Vas 22739",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 994683.1298265429,
+    "expenses" : 9949.038506672816,
+    "priceLowerPercentage" : 95.94467360130677
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 90.84442235677903,
+    "rooms" : 1,
+    "environments" : 6,
+    "bathrooms" : 9,
+    "garages" : 5
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : 2292896462546969435,
+  "title" : "Colonia Eduardo, 7 Puerta 318",
+  "description" : "When Chuck Norris' code fails to compile the compiler apologises.",
+  "address" : "Esc. 897 Barrio Francisco, 08, Chiclana de la Frontera, And 81419",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 991678.535100767,
+    "expenses" : 9972.815883817264,
+    "priceLowerPercentage" : 98.62714662606558
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 96.70009324023296,
+    "rooms" : 9,
+    "environments" : 7,
+    "bathrooms" : 4,
+    "garages" : 5
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "ALQUILER"
+}, {
+  "hashCode" : 0,
+  "id" : -8545588149305763872,
+  "title" : "Cuesta Homero 0",
+  "description" : "Chuck Norris can access the DB from the UI.",
+  "address" : "Esc. 772 Paseo Raquel, 31, Oviedo, And 14724",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 992744.3342317626,
+    "expenses" : 9981.133205112208,
+    "priceLowerPercentage" : 98.49468290554822
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 97.03226552655084,
+    "rooms" : 4,
+    "environments" : 2,
+    "bathrooms" : 6,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : 800015495647360096,
+  "title" : "Vía Berta, 28",
+  "description" : "Chuck Norris can compile syntax errors.",
+  "address" : "Barrio Ramiro Ornelas s/n. Puerta 278, Alcalá de Guadaira, Nav 75089",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 993495.6843665012,
+    "expenses" : 9948.974475729947,
+    "priceLowerPercentage" : 96.49598758034591
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 90.07052528404857,
+    "rooms" : 4,
+    "environments" : 3,
+    "bathrooms" : 8,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "EMPRENDIMIENTOS"
+}, {
+  "hashCode" : 0,
+  "id" : 8102700243263620526,
+  "title" : "Riera Tomás Sáenz 1",
+  "description" : "Chuck Norris can use GOTO as much as he wants to. Telling him otherwise is considered harmful.",
+  "address" : "Rampa Fernando s/n. Puerta 530, Valdemoro, Cat 18074",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 993124.3433677772,
+    "expenses" : 9917.387749597376,
+    "priceLowerPercentage" : 94.7412518861051
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 92.85597642107822,
+    "rooms" : 9,
+    "environments" : 1,
+    "bathrooms" : 2,
+    "garages" : 5
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/12.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "FORECLOSURE"
+}, {
+  "hashCode" : 0,
+  "id" : 3299674338452939444,
+  "title" : "Polígono José Eduardo Menchaca 89",
+  "description" : "Chuck Norris doesn't need a java compiler, he goes straight to .war",
+  "address" : "Puerta 469 Rua Jacobo Nájera 45, Roquetas de Mar, And 09512",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 990582.2672965259,
+    "expenses" : 9903.444649827501,
+    "priceLowerPercentage" : 92.4312176547332
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 91.34557399559837,
+    "rooms" : 1,
+    "environments" : 9,
+    "bathrooms" : 5,
+    "garages" : 6
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "EMPRENDIMIENTOS"
+}, {
+  "hashCode" : 0,
+  "id" : -5881842540897658062,
+  "title" : "Chalet Guillermina, 1 Esc. 418",
+  "description" : "Chuck Norris can solve the Towers of Hanoi in one move.",
+  "address" : "Travesía Homero Vélez 50, Ceuta, Ara 89076",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 994081.2063770207,
+    "expenses" : 9969.7884276611,
+    "priceLowerPercentage" : 94.94785718802542
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/1.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 99.32461078153963,
+    "rooms" : 1,
+    "environments" : 4,
+    "bathrooms" : 1,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/12.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : -9015541227753943827,
+  "title" : "Riera Gerardo de Jesús, 20",
+  "description" : "Chuck Norris can compile syntax errors.",
+  "address" : "Puerta 924 Bloque María Eugenia, 7 Esc. 006, Jaén, Man 74554",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 991610.2736023661,
+    "expenses" : 9996.339829743687,
+    "priceLowerPercentage" : 91.97814744416759
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 93.14805381788817,
+    "rooms" : 3,
+    "environments" : 1,
+    "bathrooms" : 6,
+    "garages" : 6
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "ALQUILER"
+}, {
+  "hashCode" : 0,
+  "id" : 5331600183063698000,
+  "title" : "Entrada Miguel s/n.",
+  "description" : "Chuck Norris doesn't use web standards as the web will conform to him.",
+  "address" : "Ferrocarril Miguel Ángel s/n. Puerta 468, Viladecans, Man 75756",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 997572.079454293,
+    "expenses" : 9909.912902533453,
+    "priceLowerPercentage" : 97.03186129253197
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 98.03205973460402,
+    "rooms" : 4,
+    "environments" : 6,
+    "bathrooms" : 7,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "FORECLOSURE"
+}, {
+  "hashCode" : 0,
+  "id" : -2781710417069280019,
+  "title" : "Apartamento María Eugenia 54",
+  "description" : "Chuck Norris can write multi-threaded applications with a single thread.",
+  "address" : "Esc. 400 Carretera María Elena 5, Ávila, Can 36633",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 996617.4783666418,
+    "expenses" : 9958.284348672882,
+    "priceLowerPercentage" : 91.81417869317791
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 92.49517670628333,
+    "rooms" : 4,
+    "environments" : 7,
+    "bathrooms" : 8,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : -7694270570823467388,
+  "title" : "Camino Esteban 47 Esc. 902",
+  "description" : "No statement can catch the ChuckNorrisException.",
+  "address" : "Esc. 796 Jardines Sofia Cepeda s/n. Puerta 158, Lérida, Bal 82453",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 993885.1773433862,
+    "expenses" : 9937.55035534044,
+    "priceLowerPercentage" : 99.89240179797798
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 93.9264376988624,
+    "rooms" : 8,
+    "environments" : 4,
+    "bathrooms" : 5,
+    "garages" : 7
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : -8125752074328175514,
+  "title" : "Colegio Margarita Heredia s/n. Esc. 803",
+  "description" : "Chuck Norris' keyboard doesn't have a F1 key, the computer asks him for help.",
+  "address" : "Glorieta María Luisa, 7 Puerta 560, Reus, Vas 33864",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 999817.4176233837,
+    "expenses" : 9973.982411449682,
+    "priceLowerPercentage" : 97.32629714416034
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 99.1047788291171,
+    "rooms" : 5,
+    "environments" : 5,
+    "bathrooms" : 2,
+    "garages" : 4
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : 274351085084238246,
+  "title" : "Arrabal Víctor, 7",
+  "description" : "Chuck Norris can't test for equality because he has no equal.",
+  "address" : "Subida Antonio Valladares, 93, Paterna, Ara 72338",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 996602.8253931071,
+    "expenses" : 9975.971101912448,
+    "priceLowerPercentage" : 92.21075737786667
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 99.83752387442024,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 7
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : -8346830772825488841,
+  "title" : "Puerta Fernando Arroyo s/n. Esc. 663",
+  "description" : "Chuck Norris can compile syntax errors.",
+  "address" : "Puerta 317 Extramuros Rubén 47, Estepona, Can 09260",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 991295.6920854098,
+    "expenses" : 9993.591569047836,
+    "priceLowerPercentage" : 96.7233523232509
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 91.44627316308129,
+    "rooms" : 5,
+    "environments" : 8,
+    "bathrooms" : 2,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "ALQUILER"
+}, {
+  "hashCode" : 0,
+  "id" : 4477489327680004856,
+  "title" : "Lugar Olivia 29 Esc. 626",
+  "description" : "Chuck Norris can read all encrypted data, because nothing can hide from Chuck Norris.",
+  "address" : "Quinta Mónica Saucedo, 45, Sabadell, Cbr 04369",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 992873.6670684649,
+    "expenses" : 9943.356446421876,
+    "priceLowerPercentage" : 92.08127168222269
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 93.00294905813912,
+    "rooms" : 9,
+    "environments" : 4,
+    "bathrooms" : 6,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : -6128308024547962692,
+  "title" : "Muelle Cecilia Arce, 7",
+  "description" : "Chuck Norris never gets a syntax error. Instead, the language gets a DoesNotConformToChuck error.",
+  "address" : "Polígono Susana, 94, El Puerto de Santa María, Can 39324",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 998183.8307110062,
+    "expenses" : 9926.11525365421,
+    "priceLowerPercentage" : 90.9422975828164
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 91.41337129758945,
+    "rooms" : 3,
+    "environments" : 8,
+    "bathrooms" : 1,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/8.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "TEMPORADA"
+}, {
+  "hashCode" : 0,
+  "id" : 7835681221851810129,
+  "title" : "Parcela Lourdes Alaniz, 4",
+  "description" : "Chuck Norris doesn't program with a keyboard. He stares the computer down until it does what he wants.",
+  "address" : "Monte Reina Acevedo 11 Esc. 810, Pozuelo de Alarcón, Ast 35257",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 995845.2356065558,
+    "expenses" : 9924.802892113197,
+    "priceLowerPercentage" : 99.61025909711744
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/8.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 90.13745780758433,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 9,
+    "garages" : 8
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "REMATE"
+}, {
+  "hashCode" : 0,
+  "id" : -409797473608115514,
+  "title" : "Puerta Raquel Garica 3 Esc. 781",
+  "description" : "Chuck Norris can use GOTO as much as he wants to. Telling him otherwise is considered harmful.",
+  "address" : "Esc. 419 Entrada Lilia s/n., Reus, Bal 46347",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 992155.6453871683,
+    "expenses" : 9962.274830743412,
+    "priceLowerPercentage" : 96.36267411991153
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 96.5847261863032,
+    "rooms" : 3,
+    "environments" : 8,
+    "bathrooms" : 2,
+    "garages" : 6
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/12.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : 2969373509253003931,
+  "title" : "Masía Alejandra Peres, 07",
+  "description" : "Chuck Norris's beard can type 140 wpm.",
+  "address" : "Puerta 135 Senda David, 1 Puerta 636, Getafe, Ext 87619",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 991469.5242046714,
+    "expenses" : 9945.738751595152,
+    "priceLowerPercentage" : 92.14110637432185
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/1.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 96.670748627717,
+    "rooms" : 8,
+    "environments" : 1,
+    "bathrooms" : 5,
+    "garages" : 7
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "ALQUILER"
+}, {
+  "hashCode" : 0,
+  "id" : -8122115869850808413,
+  "title" : "Bloque Martín Colón 20",
+  "description" : "Chuck Norris's first program was kill -9.",
+  "address" : "Puerta 222 Rua Pedro Rincón, 9, Madrid, Leo 64721",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 995147.4955124543,
+    "expenses" : 9983.043757955173,
+    "priceLowerPercentage" : 92.25261410731183
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 97.8759957123375,
+    "rooms" : 1,
+    "environments" : 6,
+    "bathrooms" : 8,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "FORECLOSURE"
+}, {
+  "hashCode" : 0,
+  "id" : -634706065858391891,
+  "title" : "Solar Berta Padrón, 61",
+  "description" : "The class object inherits from Chuck Norris.",
+  "address" : "Esc. 655 Urbanización Lilia 92, Algeciras, Ara 27677",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 996938.7441760243,
+    "expenses" : 9989.940214422018,
+    "priceLowerPercentage" : 92.00045753613837
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 90.7941702216346,
+    "rooms" : 2,
+    "environments" : 6,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/1.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "SUBASTA"
+}, {
+  "hashCode" : 0,
+  "id" : 4555997596619577339,
+  "title" : "Arrabal Concepción Ybarra s/n.",
+  "description" : "Chuck Norris can spawn threads that complete before they are started.",
+  "address" : "Esc. 416 Bajada María del Carmen Cerda 9, Palma de Mallorca, Ara 85806",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "price" : {
+    "value" : 998739.241818108,
+    "expenses" : 9914.730062644556,
+    "priceLowerPercentage" : 90.45218487724624
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 94.47766856054093,
+    "rooms" : 9,
+    "environments" : 2,
+    "bathrooms" : 7,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : -2274884921163758972,
+  "title" : "Partida Gustavo Estévez 18",
+  "description" : "Chuck Norris writes code that optimizes itself.",
+  "address" : "Esc. 699 Mercado Dolores Zamudio, 83 Esc. 396, Alcalá de Henares, Ara 78906",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 994298.4541509801,
+    "expenses" : 9940.106230934285,
+    "priceLowerPercentage" : 94.29462404855828
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 95.23713802285295,
+    "rooms" : 8,
+    "environments" : 5,
+    "bathrooms" : 3,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "VENTA"
+}, {
+  "hashCode" : 0,
+  "id" : 2012641995831090318,
+  "title" : "Bajada Mercedes Armenta, 46",
+  "description" : "Chuck Norris can divide by zero.",
+  "address" : "Terrenos Claudia Garrido 3, Tarrasa, Ara 74841",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 995020.5579058675,
+    "expenses" : 9903.348195166189,
+    "priceLowerPercentage" : 93.87630257178598
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 98.8124224182548,
+    "rooms" : 8,
+    "environments" : 5,
+    "bathrooms" : 9,
+    "garages" : 4
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/10.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "HIPOTECARIO"
+}, {
+  "hashCode" : 0,
+  "id" : 2536518473071389508,
+  "title" : "Extrarradio Emilio 3 Puerta 580",
+  "description" : "Chuck Norris does not use exceptions when programming. He has not been able to identify any of his code that is not exceptional.",
+  "address" : "Mercado Ramón Miramontes 56 Puerta 100, Marbella, Cat 05137",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 999106.2083796223,
+    "expenses" : 9925.466999164992,
+    "priceLowerPercentage" : 95.41699439773426
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 97.35492479909679,
+    "rooms" : 1,
+    "environments" : 8,
+    "bathrooms" : 2,
+    "garages" : 4
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/8.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "REMATE"
+}, {
+  "hashCode" : 0,
+  "id" : 6479604338342354593,
+  "title" : "Masía Graciela Olivas, 12",
+  "description" : "Chuck Norris can instantiate an abstract class.",
+  "address" : "Explanada Cristian, 96, Santa Coloma de Gramanet, Nav 06072",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : true,
+  "haswhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 990267.2780311148,
+    "expenses" : 9944.197529946792,
+    "priceLowerPercentage" : 93.33758445347054
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 91.35901045597913,
+    "rooms" : 9,
+    "environments" : 4,
+    "bathrooms" : 7,
+    "garages" : 2
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "ALQUILER"
+}, {
+  "hashCode" : 0,
+  "id" : 9059586121218686872,
+  "title" : "Partida Isabel s/n. Esc. 918",
+  "description" : "Chuck Norris' preferred IDE is hexedit.",
+  "address" : "Puerta 704 Carretera Pedro, 65 Puerta 467, Dos Hermanas, Mur 87106",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "haswhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "price" : {
+    "value" : 996966.7504734996,
+    "expenses" : 9982.999246703645,
+    "priceLowerPercentage" : 96.91960851241855
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 90.07334889575235,
+    "rooms" : 9,
+    "environments" : 5,
+    "bathrooms" : 2,
+    "garages" : 5
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/7.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "EMPRENDIMIENTOS"
+}, {
+  "hashCode" : 0,
+  "id" : 3793998406947192914,
+  "title" : "Extramuros Jaime Zepeda, 3",
+  "description" : "Quantum cryptography does not work on Chuck Norris. When something is being observed by Chuck it stays in the same state until he's finished.",
+  "address" : "Esc. 224 Colonia Enrique, 08, Motril, Ext 10805",
+  "isDevelopment" : true,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : false,
+  "viewed" : false,
+  "haswhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "price" : {
+    "value" : 999828.6834294916,
+    "expenses" : 9941.289984139117,
+    "priceLowerPercentage" : 96.41804571451682
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+    "isPremier" : true
+  },
+  "features" : {
+    "totalArea" : 98.27554374881026,
+    "rooms" : 7,
+    "environments" : 6,
+    "bathrooms" : 8,
+    "garages" : 3
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/6.png",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "operationType" : "REMATE"
+}, {
+  "hashCode" : 0,
+  "id" : 998629859177691323,
+  "title" : "Puente Marcos Zaragoza 75",
+  "description" : "When Chuck Norris points to null, null quakes in fear.",
+  "address" : "Esc. 595 Chalet Mariana, 5 Puerta 104, Ciudad Real, Ast 23626",
+  "isDevelopment" : false,
+  "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : false,
+  "haswhatsapp" : false,
+  "publicationType" : "EXCLUSIVE",
+  "price" : {
+    "value" : 999517.7144455634,
+    "expenses" : 9930.135036942658,
+    "priceLowerPercentage" : 92.35902409636188
+  },
+  "publisher" : {
+    "logoUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+    "isPremier" : false
+  },
+  "features" : {
+    "totalArea" : 91.21711005432509,
+    "rooms" : 6,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 9
+  },
+  "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+  "categoryListing" : "PARTICULAR",
+  "operationType" : "TEMPORADA"
+} ]

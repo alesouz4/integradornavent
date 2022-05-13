@@ -1,0 +1,22 @@
+
+^	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(ü¬ÊĞ8ôÌ‰Ô‹0
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¬ÊĞ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¬ÊĞ
+Œ
+java:S4165‚"iRemove this useless assignment; "bathroomsTo" already holds the assigned value along all execution paths.(—í«åúÿÿÿÿ8˜‚üÓ‹0
+|
+java:S4165d"fRemove this useless assignment; "roomFrom" already holds the assigned value along all execution paths.(Ü÷ş
+‹
+java:S4165n"iRemove this useless assignment; "bathroomsTo" already holds the assigned value along all execution paths.(—í«åúÿÿÿÿ8Ğ“ùÓ‹0
+
+java:S4165x"kRemove this useless assignment; "bathroomsFrom" already holds the assigned value along all execution paths.(¼Ğçíıÿÿÿÿ8áÖúÓ‹0
+s	java:S116	"YRename this field "operation_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êà°™ıÿÿÿÿ
+p	java:S116"[Rename this field "publication_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óªĞ°
+Q
+java:S1656n"/Remove or correct this useless self-assignment.(—í«åúÿÿÿÿ8Ú“ùÓ‹0
+J
+java:S1656x"/Remove or correct this useless self-assignment.(¼Ğçíıÿÿÿÿ
+R
+java:S1656‚"/Remove or correct this useless self-assignment.(—í«åúÿÿÿÿ8ëÖúÓ‹0
+L
+java:S1656d"/Remove or correct this useless self-assignment.(Ü÷ş8¦‚üÓ‹0
