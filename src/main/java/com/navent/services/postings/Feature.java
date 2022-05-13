@@ -6,8 +6,6 @@ public abstract class Feature {
 
     abstract public Double getTotalArea();
 
-// ejemplo 50 m2"
-
     abstract public void setTotalArea(Double totalArea);
 
     abstract public Integer getRooms();

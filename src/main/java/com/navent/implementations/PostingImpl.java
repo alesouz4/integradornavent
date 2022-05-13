@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PostingImpl extends Posting {
+    private int hashCode;
 
     private Long id;
 
@@ -21,7 +22,7 @@ public class PostingImpl extends Posting {
 
     private Feature feature;
 
-    private List<String> tags=new ArrayList<>();
+    private List<String> tags = new ArrayList<>();
 
     private boolean favorite;
 
@@ -71,40 +72,32 @@ public class PostingImpl extends Posting {
 
     @Override
     public boolean equals(Object obj) {
+        //El instanceof nos sirve para saber si obj es una instancia de la clase FilterImpl.
+        if (obj instanceof FilterImpl) {
+            //Creamos una variable filterParams y casteamos lo que recibimos x params.
+            FilterImpl filterParams = (FilterImpl) obj;
+            //Logica para saber si el Posting concueda con el filterParams
+            if (this.feature.getRooms() >= filterParams.getRoomsFrom() && this.feature.getRooms() <= filterParams.getRoomsTo()) {
+                if (this.feature.getBathrooms() >= filterParams.getBathroomsFrom() && this.feature.getBathrooms() <= filterParams.getBathroomsTo()) {
+                    if (filterParams.getPublicationType() == this.publicationType && filterParams.getOperationType() == this.OPERATIONTYPE) {
+                        if (this.favorite == filterParams.getFavorite() && this.contacted == filterParams.getContacted() && this.viewed == filterParams.getViewed() && this.haswhatsapp == filterParams.getHasWhatsapp()) {
+                            return true;
+                        }
+                    }
+                }
+            }
+        }
         return false;
     }
 
     @Override
-    public String toString() {
-        return "{" +
-                "id=" + id +
-                ", title='" + title + '\'' +
-                ", description='" + description + '\'' +
-                ", address='" + address + '\'' +
-                ", pictureURL='" + pictureURL + '\'' +
-                ", IsDevelopment=" + IsDevelopment +
-                ", feature=" + feature +
-                ", tags=" + tags +
-                ", favorite=" + favorite +
-                ", contacted=" + contacted +
-                ", viewed=" + viewed +
-                ", haswhatsapp=" + haswhatsapp +
-                ", publicationType=" + publicationType +
-                ", OPERATIONTYPE=" + OPERATIONTYPE +
-                ", CATEGORYLISTING=" + CATEGORYLISTING +
-                ", price=" + price +
-                ", publisher=" + publisher +
-                '}';
-    }
-
-    @Override
     public int getHashCode() {
-        return 0;
+        return this.hashCode;
     }
 
     @Override
     public void setHashCode(int hashCode) {
-
+        this.hashCode=hashCode;
     }
 
     @Override
@@ -296,5 +289,28 @@ public class PostingImpl extends Posting {
     @Override
     public void setPublisher(Publisher publisher) {
         this.publisher = publisher;
+    }
+
+    @Override
+    public String toString() {
+        return "{" +
+                "id=" + id +
+                ", title='" + title + '\'' +
+                ", description='" + description + '\'' +
+                ", address='" + address + '\'' +
+                ", pictureURL='" + pictureURL + '\'' +
+                ", IsDevelopment=" + IsDevelopment +
+                ", feature=" + feature +
+                ", tags=" + tags +
+                ", favorite=" + favorite +
+                ", contacted=" + contacted +
+                ", viewed=" + viewed +
+                ", haswhatsapp=" + haswhatsapp +
+                ", publicationType=" + publicationType +
+                ", OPERATIONTYPE=" + OPERATIONTYPE +
+                ", CATEGORYLISTING=" + CATEGORYLISTING +
+                ", price=" + price +
+                ", publisher=" + publisher +
+                '}';
     }
 }
