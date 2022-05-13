@@ -5,7 +5,7 @@ import com.navent.services.postings.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PostingImpl  extends Posting implements Comparable<PostingImpl> {
+public class PostingImpl extends Posting implements Comparable<PostingImpl> {
     private int hashCode;
 
     private Long id;
@@ -276,21 +276,6 @@ public class PostingImpl  extends Posting implements Comparable<PostingImpl> {
 
     @Override
     public boolean equals(Object obj) {
-        //El instanceof nos sirve para saber si obj es una instancia de la clase FilterImpl.
-        if (obj instanceof FilterImpl) {
-            //Creamos una variable filterParams y casteamos lo que recibimos x params.
-            FilterImpl filterParams = (FilterImpl) obj;
-            //Logica para saber si el Posting concueda con el filterParams
-            if (this.feature.getRooms() >= filterParams.getRoomsFrom() && this.feature.getRooms() <= filterParams.getRoomsTo()) {
-                if (this.feature.getBathrooms() >= filterParams.getBathroomsFrom() && this.feature.getBathrooms() <= filterParams.getBathroomsTo()) {
-                    if (filterParams.getPublicationType() == this.publicationType && filterParams.getOperationType() == this.OPERATIONTYPE) {
-                        if (this.favorite == filterParams.getFavorite() && this.contacted == filterParams.getContacted() && this.viewed == filterParams.getViewed() && this.haswhatsapp == filterParams.getHasWhatsapp()) {
-                            return true;
-                        }
-                    }
-                }
-            }
-        }
         return false;
     }
 
