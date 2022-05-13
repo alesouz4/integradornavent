@@ -23,6 +23,9 @@ public class Main {
 
         List<PostingImpl> filteredSearchedPosting = new SearchPosting().postings(filter1);
 
+        /**
+         * Ordenamos la lista segun los definido en el compareTo, en este caso se definio que se ordene por numero de rooms.
+         */
         Collections.sort(filteredSearchedPosting);
 
         for (PostingImpl posting : filteredSearchedPosting) {

@@ -43,8 +43,6 @@ import java.util.List;
 
         abstract public List<String> getTags();
 
-// ejemplos "RESERVED, 300, "VIDEO", "ADMITS PETS", "CREDIT, //SURETY INSURANCE "FINANCE
-
         abstract public void setTags(List<String> tags);
 
         abstract public Boolean getFavorite();
