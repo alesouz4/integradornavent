@@ -7,6 +7,8 @@ import java.util.List;
 
 public class PostingImpl extends Posting {
 
+    private int hashCode;
+
     private Long id;
 
     private String title;
@@ -71,6 +73,18 @@ public class PostingImpl extends Posting {
 
     @Override
     public boolean equals(Object obj) {
+        if (obj instanceof FilterImpl) {
+            FilterImpl filterParameters = (FilterImpl)obj;
+            if (filterParameters.getOperationType() == this.getOperationType() && filterParameters.getPublicationType() == this.publicationType) {
+                if (filterParameters.getContacted() && filterParameters.getFavorite() && filterParameters.getViewed() && filterParameters.getHasWhatsapp()) {
+                    if (filterParameters.getBathroomsFrom() >= this.feature.getBathrooms() && filterParameters.getBathroomsTo() <= this.feature.getBathrooms()) {
+                        if (filterParameters.getRoomsFrom() >= this.feature.getRooms() && filterParameters.getRoomsTo() <= this.feature.getRooms()) {
+                            return true;
+                        }
+                    }
+                }
+            }
+        }
         return false;
     }
 
