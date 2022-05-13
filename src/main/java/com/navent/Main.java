@@ -22,7 +22,9 @@ public class Main {
         FilterImpl filter5 = new FilterImpl(OPERATION_TYPE.REMATE, true, false, true, true, PUBLICATION_TYPE.CLASIFFIED, 1, 4, 1, 4 );
 
         List<PostingImpl> filteredSearchedPosting = new SearchPosting().postings(filter1);
+
         Collections.sort(filteredSearchedPosting);
+
         for (PostingImpl posting : filteredSearchedPosting) {
             System.out.println(new ObjectMapper().writerWithDefaultPrettyPrinter().writeValueAsString(posting));
         }

@@ -96,7 +96,7 @@ public class FilterImpl extends Filter {
 
     @Override
     public void setPublicationType(PUBLICATION_TYPE publicationType) {
-        this.publicationType=publicationType;
+        this.publicationType = publicationType;
     }
 
     @Override
@@ -106,7 +106,7 @@ public class FilterImpl extends Filter {
 
     @Override
     public void setRoomsFrom(Integer roomsFrom) {
-        this.roomsFrom=roomsFrom;
+        this.roomsFrom = roomsFrom;
     }
 
     @Override
@@ -116,7 +116,7 @@ public class FilterImpl extends Filter {
 
     @Override
     public void setRoomsTo(Integer roomsTo) {
-        this.roomsTo=roomsTo;
+        this.roomsTo = roomsTo;
     }
 
     @Override
@@ -126,7 +126,7 @@ public class FilterImpl extends Filter {
 
     @Override
     public void setBathroomsFrom(Integer bathroomsFrom) {
-        this.bathroomsFrom=bathroomsFrom;
+        this.bathroomsFrom = bathroomsFrom;
     }
 
     @Override
@@ -136,6 +136,22 @@ public class FilterImpl extends Filter {
 
     @Override
     public void setBathroomsTo(Integer bathroomsTo) {
-        this.bathroomsTo=bathroomsTo;
+        this.bathroomsTo = bathroomsTo;
+    }
+
+    @Override
+    public String toString() {
+        return "{" +
+                "operationType=" + operationType +
+                ", favorite=" + favorite +
+                ", contacted=" + contacted +
+                ", viewed=" + viewed +
+                ", hasWatsapp=" + hasWatsapp +
+                ", publicationType=" + publicationType +
+                ", roomsFrom=" + roomsFrom +
+                ", roomsTo=" + roomsTo +
+                ", bathroomsFrom=" + bathroomsFrom +
+                ", bathroomsTo=" + bathroomsTo +
+                '}';
     }
 }

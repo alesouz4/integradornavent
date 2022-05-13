@@ -5,7 +5,7 @@ import com.navent.services.postings.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PostingImpl extends Posting implements Comparable<PostingImpl>{
+public class PostingImpl extends Posting implements Comparable<PostingImpl> {
 
     private int hashCode;
 
@@ -73,18 +73,6 @@ public class PostingImpl extends Posting implements Comparable<PostingImpl>{
 
     @Override
     public boolean equals(Object obj) {
-        if (obj instanceof FilterImpl) {
-            FilterImpl filterParameters = (FilterImpl)obj;
-            if (filterParameters.getOperationType() == this.getOperationType() && filterParameters.getPublicationType() == this.publicationType) {
-                if (filterParameters.getContacted() && filterParameters.getFavorite() && filterParameters.getViewed() && filterParameters.getHasWhatsapp()) {
-                    if (this.feature.getRooms() >= filterParameters.getRoomsFrom() && this.feature.getRooms() <= filterParameters.getRoomsTo()) {
-                        if (this.feature.getBathrooms() >= filterParameters.getBathroomsFrom() && this.feature.getBathrooms() <= filterParameters.getBathroomsTo()) {
-                            return true;
-                        }
-                    }
-                }
-            }
-        }
         return false;
     }
 
@@ -266,12 +254,12 @@ public class PostingImpl extends Posting implements Comparable<PostingImpl>{
 
     @Override
     public void setPublisher(Publisher publisher) {
-        this.publisher=publisher;
+        this.publisher = publisher;
     }
 
     @Override
     public String toString() {
-        return  "{" +
+        return "{" +
                 "id=" + id +
                 ", title='" + title + '\'' +
                 ", description='" + description + '\'' +
