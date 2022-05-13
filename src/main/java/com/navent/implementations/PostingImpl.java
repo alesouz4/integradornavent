@@ -5,7 +5,7 @@ import com.navent.services.postings.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PostingImpl extends Posting {
+public class PostingImpl extends Posting implements Comparable<PostingImpl>{
 
     private int hashCode;
 
@@ -54,7 +54,7 @@ public class PostingImpl extends Posting {
         this.pictureURL = pictureURL;
         IsDevelopment = isDevelopment;
         this.feature = feature;
-        this.tags = tags;
+        this.tags.addAll(tags);
         this.favorite = favorite;
         this.contacted = contacted;
         this.viewed = viewed;
@@ -77,8 +77,9 @@ public class PostingImpl extends Posting {
             FilterImpl filterParameters = (FilterImpl)obj;
             if (filterParameters.getOperationType() == this.getOperationType() && filterParameters.getPublicationType() == this.publicationType) {
                 if (filterParameters.getContacted() && filterParameters.getFavorite() && filterParameters.getViewed() && filterParameters.getHasWhatsapp()) {
-                    if (filterParameters.getBathroomsFrom() >= this.feature.getBathrooms() && filterParameters.getBathroomsTo() <= this.feature.getBathrooms()) {
-                        if (filterParameters.getRoomsFrom() >= this.feature.getRooms() && filterParameters.getRoomsTo() <= this.feature.getRooms()) {
+                    if (this.feature.getRooms() >= filterParameters.getRoomsFrom() && this.feature.getRooms() <= filterParameters.getRoomsTo()) {
+                    if (this.feature.getRooms() >= filterParameters.getRoomsFrom() && this.feature.getRooms() <= filterParameters.getRoomsTo()) {
+                        if (this.feature.getBathrooms() >= filterParameters.getBathroomsFrom() && this.feature.getBathrooms() <= filterParameters.getBathroomsTo()) {
                             return true;
                         }
                     }
@@ -290,5 +291,10 @@ public class PostingImpl extends Posting {
                 ", price=" + price +
                 ", publisher=" + publisher +
                 '}';
+    }
+
+    @Override
+    public int compareTo(PostingImpl posting) {
+        return this.feature.getRooms() - posting.feature.getRooms();
     }
 }
