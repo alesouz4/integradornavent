@@ -78,7 +78,6 @@ public class PostingImpl extends Posting implements Comparable<PostingImpl>{
             if (filterParameters.getOperationType() == this.getOperationType() && filterParameters.getPublicationType() == this.publicationType) {
                 if (filterParameters.getContacted() && filterParameters.getFavorite() && filterParameters.getViewed() && filterParameters.getHasWhatsapp()) {
                     if (this.feature.getRooms() >= filterParameters.getRoomsFrom() && this.feature.getRooms() <= filterParameters.getRoomsTo()) {
-                    if (this.feature.getRooms() >= filterParameters.getRoomsFrom() && this.feature.getRooms() <= filterParameters.getRoomsTo()) {
                         if (this.feature.getBathrooms() >= filterParameters.getBathroomsFrom() && this.feature.getBathrooms() <= filterParameters.getBathroomsTo()) {
                             return true;
                         }
