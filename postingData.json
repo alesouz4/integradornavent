@@ -64,7 +64,10 @@
   "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/2.png",
   "categoryListing" : "PARTICULAR",
   "operationType" : "ALQUILER"
-}, {
+},
+
+
+  {
   "hashCode" : 0,
   "id" : 8120464380304329516,
   "title" : "Colegio Florencia Candelaria, 2 Esc. 997",
@@ -73,10 +76,10 @@
   "isDevelopment" : true,
   "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
   "favorite" : true,
-  "contacted" : true,
-  "viewed" : false,
+  "contacted" : false,
+  "viewed" : true,
   "haswhatsapp" : false,
-  "publicationType" : "CLASIFFIED",
+  "publicationType" : "HIGHLIGHTED",
   "price" : {
     "value" : 995394.1438825441,
     "expenses" : 9982.908435502455,
@@ -88,15 +91,16 @@
   },
   "features" : {
     "totalArea" : 93.06769821802686,
-    "rooms" : 7,
+    "rooms" : 2,
     "environments" : 3,
-    "bathrooms" : 5,
+    "bathrooms" : 3,
     "garages" : 7
   },
   "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
   "categoryListing" : "PARTICULAR",
-  "operationType" : "ALQUILER"
-}, {
+  "operationType" : "VENTA"
+},
+  {
   "hashCode" : 0,
   "id" : -8665275041143945990,
   "title" : "Escalinata Graciela s/n. Esc. 863",
@@ -106,7 +110,7 @@
   "tags" : [ "Black malt", "Carapils", "Pale", "Caramel" ],
   "favorite" : true,
   "contacted" : false,
-  "viewed" : false,
+  "viewed" : true,
   "haswhatsapp" : true,
   "publicationType" : "HIGHLIGHTED",
   "price" : {
@@ -127,7 +131,7 @@
   },
   "pictureUrl" : "https://pigment.github.io/fake-logos/logos/medium/color/3.png",
   "categoryListing" : "EMPRENDIMIENTO",
-  "operationType" : "HIPOTECARIO"
+  "operationType" : "VENTA"
 }, {
   "hashCode" : 0,
   "id" : 610204395119631469,
