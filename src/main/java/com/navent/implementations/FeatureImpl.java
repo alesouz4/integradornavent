@@ -25,6 +25,12 @@ public class FeatureImpl extends Feature {
         this.garages = garages;
     }
 
+    public FeatureImpl(Double totalArea,Integer bathrooms){
+        this.totalArea=totalArea;
+        this.bathrooms=bathrooms;
+
+    }
+
     @Override
     public Double getTotalArea() {
 

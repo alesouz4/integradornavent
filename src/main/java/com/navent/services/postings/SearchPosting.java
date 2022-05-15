@@ -17,7 +17,7 @@ public class SearchPosting implements Postings {
      */
     public boolean searchPostingByFilters(FilterImpl filter, PostingImpl posting) {
         if (filter.getOperationType() == posting.getOperationType() && filter.getPublicationType() == posting.getPublicationType()) {
-            if (filter.getContacted() ==posting.getContacted() && filter.getFavorite()==posting.getFavorite() && filter.getViewed()==posting.getViewed() && filter.getHasWhatsapp()==posting.getHaswhatsapp()) {
+            if (filter.getContacted() == posting.getContacted() && filter.getFavorite()==posting.getFavorite() && filter.getViewed()==posting.getViewed() && filter.getHasWhatsapp()==posting.getHaswhatsapp()) {
                 if (posting.getFeature().getRooms() >= filter.getRoomsFrom() && posting.getFeature().getRooms() <= filter.getRoomsTo()) {
                     if (posting.getFeature().getBathrooms() >= filter.getBathroomsFrom() && posting.getFeature().getBathrooms() <= filter.getBathroomsTo()) {
                         return true;
@@ -38,6 +38,7 @@ public class SearchPosting implements Postings {
          * Esta lista tendra los postings que concuerden con los filtros.
          */
         List<PostingImpl> filteredFakePostings = new ArrayList<>();
+
         for (PostingImpl posting : fakePostings) {
             /**
              * En cada instancia del for verificamos si el posting concuerda con el filtro utilizando el metodo searchPostingByFilters. Si este concuerda se lo agrega a la
